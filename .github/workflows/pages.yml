@@ -1,0 +1,50 @@
+# Publica el cuaderno en GitHub Pages en cada empujon a `main`.
+#
+# El repositorio ya contiene el sitio compilado, asi que aqui no se construye
+# nada: se sube tal cual. La construccion (`marimo export html-wasm`) vive en el
+# repositorio del proyecto, que no es publico, y su salida se copia aqui.
+#
+# **Requiere cambiar el origen de Pages a «GitHub Actions»** en
+# Settings -> Pages -> Source. Con «Deploy from a branch» este flujo no se usa.
+name: Publicar en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  # Para republicar sin tocar el contenido, desde la pestana Actions.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un despliegue cada vez. `cancel-in-progress: false` a proposito: cancelar un
+# despliegue de Pages a medias deja la pagina servida a medias.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  desplegar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - name: Traer el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaquetar el sitio
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # La raiz entera: index.html, assets/ y public/. El `.nojekyll` que
+          # trae el export impide que Jekyll se coma las carpetas.
+          path: .
+
+      - name: Desplegar
+        id: despliegue
+        uses: actions/deploy-pages@v4
