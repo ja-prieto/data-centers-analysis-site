@@ -1,0 +1,47 @@
+{
+  "generado": "2026-09-07",
+  "expedientes": 232,
+  "expedientes_con_magnitud": 112,
+  "proyectos": 112,
+  "ccaa_con_datos": 15,
+  "ccaa_totales": 19,
+  "expedientes_verificados": 80,
+  "expedientes_refutados": 11,
+  "expedientes_cita_no_verifica": 9,
+  "pem_eur": 148550288.17000002,
+  "proyectos_con_potencia": 29,
+  "proyectos_por_via": {
+    "informatica_declarada": 8,
+    "electrica_declarada": 12,
+    "demanda_declarada": 1,
+    "transformacion": 8,
+    "sin_potencia": 83
+  },
+  "cartera_meur": 50007.5,
+  "brecha_fisica": {
+    "desde": 2019,
+    "hasta": 2024,
+    "crecimiento_equipo": 0.3084,
+    "crecimiento_fbcf": 0.2155,
+    "brecha": 0.0929,
+    "lectura": "El equipo que se queda en el país crece 9% más que la formación de capital que debería recogerlo. Es el desajuste que hay que explicar: o lo capitaliza un propietario no residente, o se está registrando como servicio importado en vez de como inversión."
+  },
+  "factores": {
+    "cos_phi": [
+      0.95,
+      0.98,
+      1.0
+    ],
+    "pue": [
+      1.33,
+      1.43,
+      1.52
+    ],
+    "coste_mw_it": [
+      8.49,
+      9.35,
+      10.2
+    ],
+    "redundancia": 2.0
+  }
+}

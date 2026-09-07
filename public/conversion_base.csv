@@ -1,0 +1,113 @@
+id_proyecto,proyecto,ccaa_o_provincia,via,mw_informaticos,mw_electricos,mva_transformacion,mva_demanda,autoabastecido,inversion_anunciada_meur
+AR-P04,Calanza Inmuebles - Calatorao,Zaragoza,electrica_declarada,,1000.0,,,0,11805.0
+AR-P03,"Microsoft 7724 Spain - La Muela, Villamayor de Gallego, Zaragoza",Zaragoza,electrica_declarada,,1846.0,,,0,5300.0
+AR-P10,"Box2Bit - El Burgo de Ebro, Epila, Zaragoza (reservas en Carinena y Calatayud)",Zaragoza,sin_potencia,,,,,0,3900.0
+CB-P01,"Tavira 424 Servicios Corporativos - Pielagos, Villaescusa",Cantabria,electrica_declarada,,500.0,,,0,3600.0
+AR-P06,Vantage Data Centers - Villanueva de Gallego,Zaragoza,electrica_declarada,,90.0,,,0,3200.0
+CM-P06,DC Estate Malpica - Mora,Toledo,informatica_declarada,300.0,,,,1,3000.0
+AR-P07,"Grupo Samca - Green IT Aragon - Luceni, Pedrola, Plasencia de Jalon",Zaragoza,electrica_declarada,,131.0,,,0,2627.0
+AR-P01,"Amazon Data Services Spain - El Burgo de Ebro, Huesca, Huesca (Walqa)",Zaragoza / Huesca,electrica_declarada,,300.0,1000.0,,0,2500.0
+CM-P08,"B2B Axis East - Brihuega, Torija, Valdegrudas",Guadalajara,sin_potencia,,,,,0,1750.0
+AR-P09,ACS Data Centers - La Puebla de Alfinden,Zaragoza,electrica_declarada,,300.0,,,0,1254.0
+AS-P01,Sales For You Consulting - Salas,Asturias,informatica_declarada,120.0,,,,0,1226.3
+AR-P05,"Merlin Properties - Botorrita, Muel",Zaragoza,electrica_declarada,,467.0,,,0,1224.0
+AR-P08,Grupo Azora - Tillion Data Centers - Villamayor de Gallego,Zaragoza,electrica_declarada,,150.0,,,0,1100.0
+CM-P03,Nostrum Data Centers (GUA1) - Guadalajara,Guadalajara,informatica_declarada,26.3,40.0,80.0,,0,1000.0
+CM-P01,"Zarza Networks - Calera y Chozas, Talavera de la Reina",Toledo,demanda_declarada,,,480.0,240.0,0,750.0
+CM-P05,Solaria Energia y Medio Ambiente - Puertollano,Ciudad Real,informatica_declarada,30.0,40.0,,,0,500.0
+EX-P05,Data Riocaya - Badajoz,Badajoz,informatica_declarada,110.0,,1200.0,,0,469.83
+MA-P10,"Equinix (Spain) - Alcobendas, Algete, San Sebastian de los Reyes",Madrid,sin_potencia,,,,,0,460.0
+CM-P11,Fortinet - Torija,Guadalajara,sin_potencia,,,,,0,40.0
+MA-P11,Microsoft 7724 Spain - Alcala de Henares,Madrid,sin_potencia,,,,,0,40.0
+AN-P01-2,Sociedad Andaluza para el Desarrollo de las Telecomunicaciones - sin localizar,Sevilla,sin_potencia,,,,,0,19.203
+CB-P07,"CIGSA - Santander (PCTCAN, edificio CISGA)",Cantabria,sin_potencia,,,,,0,12.0
+GA-P01-2,Fundación Pública Gallega Centro Tecnológico de Supercomputación de Galicia - sin localizar,A Coruña,sin_potencia,,,,,0,9.027
+CM-P10,Oasix - Talavera de la Reina,Toledo,sin_potencia,,,,,0,1.3
+AR-P11,"ACS DC Infra La Puebla - Castejón de Sos, La Puebla de Alfindén, Villamayor de Gállego",Zaragoza,transformacion,,,600.0,,0,
+MA-P19,ATLAS DC2 - Alcobendas,Madrid,transformacion,,,200.0,,0,
+AR-P01-2,"Amazon Data Services, Spain - El Burgo de Ebro, El Burgo de Ebro y Zaragoza- La Cartuja, Huesca",Zaragoza,sin_potencia,,,,,0,
+AR-P01-3,"Amazon Data Services, Spain - El Burgo de Ebro, Huesca, Villanueva de Gállego",Zaragoza,sin_potencia,,,,,0,
+AR-P02,Amazon Web Services - El Burgo de Ebro,Zaragoza,sin_potencia,,,,,0,
+AR-P04-2,"Axent Infraestructuras de Telecomunicaciones - El Burgo de Ebro, Zaragoza",Zaragoza,sin_potencia,,,,,0,
+AS-P02,Ayuntamiento de Salas - Salas,Asturias,sin_potencia,,,,,0,
+AR-P09-2,"B2B Axis East 3 - Cariñena, Épila",Zaragoza,sin_potencia,,,,,0,
+CM-P09,Box2Bit Axis South - Recas,Toledo,sin_potencia,,,,,0,
+AR-P03-2,Búfalo,Zaragoza,sin_potencia,,,,,0,
+AR-P13,Búfalo,Zaragoza,sin_potencia,,,,,0,
+AR-P08-2,Calanza Inmuebles - Calatorao,Zaragoza,sin_potencia,,,,,0,
+CA-P03,Centro de Proceso de Datos San Lorenzo,Valladolid,electrica_declarada,,231.2,,,0,
+MA-P15,Cignus P2DC - Daganzo de Arriba,Madrid,sin_potencia,,,,,0,
+AR-P10-2,Clave Logística Aragonesa - Villamayor de Gállego,Zaragoza,sin_potencia,,,,,0,
+MA-P08,DATA 4 Castilla - San Agustin del Guadalix,Madrid,sin_potencia,,,,,0,
+CM-P07,DC Estate Vianos - Vianos,Albacete,informatica_declarada,300.0,,,,1,
+AR-P12,"Data Center Ribera del Ebro - Luceni, Plasencia de Jalón, Rueda de Jalón",Zaragoza,sin_potencia,,,,,0,
+MA-P03,Data Holding Future - Alcala de Henares,Madrid,sin_potencia,,,,,0,
+MA-P09,"Data4 Infrastructure Spain - Algete, El Molar, Fuente el Saz de Jarama",Madrid,sin_potencia,,,,,0,
+AR-P03-4,Desarrollos Ecoindustriales La Cartuja - Villanueva de Gállego,Zaragoza,sin_potencia,,,,,0,
+AR-P12-2,Desarrollos Ecoindustriales La Cartuja - Villanueva de Gállego,Zaragoza,sin_potencia,,,,,0,
+MA-P02,"Digital DHF Iberia - Alcala de Henares, Alcalá de Henares",Madrid,transformacion,,,200.0,,0,
+AR-P05-2,Expediente ARF-13,Huesca,sin_potencia,,,,,0,
+AR-P17,Expediente ARF-61,Zaragoza,sin_potencia,,,,,0,
+AR-P02-3,Expediente ARF-73,Huesca,sin_potencia,,,,,0,
+AR-P03-3,Expediente ARF-75,Zaragoza,sin_potencia,,,,,0,
+AR-P06-3,Expediente ARF-83,Huesca,sin_potencia,,,,,0,
+AR-P09-3,Expediente ARF-88,Zaragoza,sin_potencia,,,,,0,
+CB-P01-2,Expediente CBF-01,Cantabria,sin_potencia,,,,,0,
+CA-P02,Expediente CLF-02,Zamora,informatica_declarada,200.0,,,,0,
+CT-P01,Expediente CTF-01,Barcelona,sin_potencia,,,,,0,
+CT-P02,Expediente CTF-02,Barcelona,sin_potencia,,,,,0,
+EX-P01,Expediente EXF-01,Cáceres,sin_potencia,,,,,0,
+EX-P02,Expediente EXF-02,Cáceres,sin_potencia,,,,,0,
+EX-P03,Expediente EXF-03,Cáceres,sin_potencia,,,,,0,
+GA-P02,Expediente GAF-02,A Coruña,sin_potencia,,,,,0,
+IB-P01,Expediente IBF-01,Illes Balears,sin_potencia,,,,,0,
+IB-P02,Expediente IBF-02,Illes Balears,sin_potencia,,,,,0,
+IB-P03,Expediente IBF-03,Illes Balears,sin_potencia,,,,,0,
+MA-P02-2,Expediente MDF-02,Madrid,sin_potencia,,,,,0,
+MA-P03-2,Expediente MDF-03,Madrid,sin_potencia,,,,,0,
+MA-P01-3,Expediente MDF-04,Madrid,sin_potencia,,,,,0,
+PV-P02,Expediente PVF-03,Araba/Álava,sin_potencia,,,,,0,
+PV-P03,Expediente PVF-04,Bizkaia,sin_potencia,,,,,0,
+PV-P05,Expediente PVF-07,Araba/Álava,sin_potencia,,,,,0,
+PV-P06,Expediente PVF-08,Araba/Álava,sin_potencia,,,,,0,
+PV-P01-2,Expediente PVF-09,Álava,sin_potencia,,,,,0,
+CO-P01,Expediente VCF-01,Alacant/Alicante,sin_potencia,,,,,0,
+MA-P01,FVI ASG Spanish Propco 3 - Meco,Madrid,transformacion,,,100.0,,0,
+GA-P01,Galicia Green Data Center - Curtis,A Coruña,sin_potencia,,,,,0,
+CB-P06,Google - Santander (PCTCAN),Cantabria,sin_potencia,,,,,0,
+MA-P06,"I-DE Redes Electricas Inteligentes - Alcobendas, Algete, Getafe",Madrid,sin_potencia,,,,,0,
+MA-P01-2,"I-DE Redes Electricas Inteligentes - Alcobendas, San Sebastián de los Reyes",Madrid,sin_potencia,,,,,0,
+CM-P12,Iberdrola - Toledo,Toledo,sin_potencia,,,,,0,
+MA-P14,"Ignis Data Alfa - No consta, Villalbilla",Madrid,sin_potencia,,,,,0,
+MA-P13,"Ignis Data Beta - Alcobendas, San Sebastian de los Reyes",Madrid,electrica_declarada,,250.0,,,0,
+MA-P12,"Ignis Data Tria - Loeches, San Fernando de Henares, Torres de la Alameda",Madrid,electrica_declarada,,484.0,,,0,
+AR-P11-2,Instituto Aragonés de Fomento - Zaragoza,Zaragoza,sin_potencia,,,,,0,
+MA-P07,Interxion Espana - Madrid (c/ Alfonso Gomez 4),Madrid,transformacion,,,20.0,,0,
+MA-P18,Iron Mountain Data Centers España - San Fernando de Henares,Madrid,transformacion,,,252.0,,0,
+EX-P04,Merlin Edged - Navalmoral de la Mata,Cáceres,informatica_declarada,192.0,,,,0,
+AR-P18,Merlin Properties - Botorrita,Zaragoza,sin_potencia,,,,,0,
+MA-P05,"Merlin Properties - Getafe, Madrid",Madrid,transformacion,,,40.0,,0,
+PV-P01,"Merlín Logística - Ribabellosa, Zierbena",Bizkaia,sin_potencia,,,,,0,
+AR-P01-4,"Microsoft 7724 Spain - La Muela, Villamayor de Gállego",Zaragoza,sin_potencia,,,,,0,
+AR-P06-2,"Microsoft 7724 Spain - La Muela, Villamayor de Gállego, Zaragoza",Zaragoza,sin_potencia,,,,,0,
+AR-P08-3,"Microsoft 7724 Spain - Villamayor de Gállego, Zaragoza",Zaragoza,sin_potencia,,,,,0,
+PV-P04,Moana Data - Zamudio,Bizkaia,sin_potencia,,,,,0,
+AR-P15,"Molinos del Ebro - Pedrola, Plasencia de Jalón, Rueda de Jalón",Zaragoza,sin_potencia,,,,,0,
+AR-P05-3,Máquina Solar - Villamayor de Gállego,Zaragoza,sin_potencia,,,,,0,
+NC-P01,NASERTIC - Pamplona,Navarra,sin_potencia,,,,,0,
+CB-P03,"PSIR del Parque Empresarial VIPAR, AIEP Pielagos-Villaescusa (poligono en el que, segun la nota oficial de 25-02-2025, se situa la fase 1 del campus Altamira)",Cantabria,sin_potencia,,,,,0,
+MA-P16,Plan Especial de Infraestructuras del centro de proceso de datos de Daganzo,Madrid,sin_potencia,,,,,0,
+MA-P17,"Plan Especial de Mejora Urbana Las Hilanderas, P.I. de Los Angeles",Madrid,sin_potencia,,,,,0,
+RE-P01,Promoción y Desarrollo de Data Centers - Caravaca de la Cruz,Murcia,sin_potencia,,,,,0,
+MA-P04,"Red Electrica de Espana - Alcala de Henares, Anchuelo, Los Santos de la Humosa",Madrid,sin_potencia,,,,,0,
+CM-P02,Red Electrica de Espana - Calera y Chozas,Toledo,sin_potencia,,,,,0,
+AN-P01,Saltburn Holding - Málaga,Málaga,sin_potencia,,,,,0,
+CB-P05,Santander Global Services - Medio Cudeyo (Solares),Cantabria,transformacion,,,4.0,,0,
+CA-P01,Skygrid Data Systems - Aguilar de Campoo,Palencia,sin_potencia,,,,,0,
+AR-P07-3,Sociedad Anónima Minera Catalano- Aragonesa - Luceni,Zaragoza,sin_potencia,,,,,0,
+AR-P14,Sociedad Anónima Minera Catalano-Aragonesa - Luceni,Zaragoza,sin_potencia,,,,,0,
+AR-P07-2,Suelo y Vivienda de Aragón - Villanueva de Gállego,Zaragoza,sin_potencia,,,,,0,
+CB-P04,Telxius Cable Espana - Santander,Cantabria,sin_potencia,,,,,0,
+AR-P02-4,Tillion Aragón - Villamayor de Gállego,Zaragoza,sin_potencia,,,,,0,
+AR-P16,Tillion Aragón - Villamayor de Gállego,Zaragoza,sin_potencia,,,,,0,
+CB-P02,"XDC North Coast - Pielagos, Villaescusa",Cantabria,sin_potencia,,,,,0,

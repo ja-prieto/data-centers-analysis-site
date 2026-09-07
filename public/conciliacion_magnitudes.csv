@@ -1,0 +1,5 @@
+concepto,valor_meur,naturaleza,ano,fuente,advertencia
+Cartera identificada en expedientes,50007.5,cartera,,"Expedientes administrativos, elaboracion propia","Acumulado de lo que está en tramitación, sin calendario y sin descontar lo que no se hará. No es un flujo anual."
+Inversión de la rama 6311,1521.3,flujo_anual,2024,"INE, Estadística Estructural de Empresas","La rama es «proceso de datos, hosting y actividades relacionadas»: contiene los centros de datos y bastante más."
+Equipo importado que se queda en el país,10638.7,flujo_anual,2024,"Eurostat COMEXT, consumo aparente de las partidas de relevancia alta","Equipo que cruza la frontera, no inversión: parte va a existencias, a hogares y a otras ramas, y parte la instala un propietario no residente."
+FBCF en maquinaria no de transporte,61852.0,agregado_contenedor,2024,"INE, Contabilidad Nacional Trimestral","Contiene el equipo informático sin distinguirlo, junto con toda la maquinaria industrial del país."

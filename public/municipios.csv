@@ -1,0 +1,72 @@
+cod_ine,nombre,cod_provincia,provincia,lon,lat
+01031,Laguardia,01,Araba/Álava,-2.58127,42.55349
+01047,Ribera Baja/Erriberabeitia,01,Araba/Álava,-2.90427,42.72278
+02076,Vianos,02,Albacete,-2.51331,38.60294
+03088,Monforte del Cid,03,Alacant/Alicante,-0.6954,38.38385
+06015,Badajoz,06,Badajoz,-6.84969,38.8669
+07040,Palma,07,Illes Balears,2.69879,39.58307
+08019,Barcelona,08,Barcelona,2.15275,41.4001
+10037,Cáceres,10,Cáceres,-6.45826,39.37305
+10131,Navalmoral de la Mata,10,Cáceres,-5.55728,39.93158
+13071,Puertollano,13,Ciudad Real,-4.06128,38.64971
+15032,Curtis,15,A Coruña,-8.04669,43.13455
+15078,Santiago de Compostela,15,A Coruña,-8.51791,42.9106
+19053,Brihuega,19,Guadalajara,-2.85371,40.7404
+19130,Guadalajara,19,Guadalajara,-3.13998,40.60595
+19274,Torija,19,Guadalajara,-3.03933,40.74271
+19302,Valdegrudas,19,Guadalajara,-3.00495,40.71725
+22084,Castejón de Sos,22,Huesca,0.51072,42.52785
+22125,Huesca,22,Huesca,-0.42961,42.12888
+22130,Jaca,22,Huesca,-0.5532,42.54474
+22904,La Sotonera,22,Huesca,-0.54207,42.25136
+28005,Alcalá de Henares,28,Madrid,-3.36923,40.49435
+28006,Alcobendas,28,Madrid,-3.62958,40.53491
+28009,Algete,28,Madrid,-3.5307,40.60786
+28012,Anchuelo,28,Madrid,-3.27518,40.46543
+28053,Daganzo de Arriba,28,Madrid,-3.44385,40.55983
+28059,Fuente el Saz de Jarama,28,Madrid,-3.52414,40.64239
+28065,Getafe,28,Madrid,-3.67362,40.29946
+28075,Loeches,28,Madrid,-3.41899,40.38291
+28079,Madrid,28,Madrid,-3.69627,40.46513
+28083,Meco,28,Madrid,-3.32245,40.55598
+28129,San Agustín del Guadalix,28,Madrid,-3.63207,40.68611
+28130,San Fernando de Henares,28,Madrid,-3.48586,40.4362
+28134,San Sebastián de los Reyes,28,Madrid,-3.60097,40.57458
+28137,Los Santos de la Humosa,28,Madrid,-3.25459,40.51314
+28154,Torres de la Alameda,28,Madrid,-3.3657,40.40941
+28172,Villalbilla,28,Madrid,-3.32887,40.44334
+29067,Málaga,29,Málaga,-4.42557,36.76698
+30015,Caravaca de la Cruz,30,Murcia,-2.02662,38.00674
+31201,Pamplona/Iruña,31,Navarra,-1.65193,42.81519
+33059,Salas,33,Asturias,-6.24832,43.41363
+34004,Aguilar de Campoo,34,Palencia,-4.28278,42.79247
+39042,Medio Cudeyo,39,Cantabria,-3.75964,43.37999
+39052,Piélagos,39,Cantabria,-3.94451,43.38886
+39075,Santander,39,Cantabria,-3.83051,43.46401
+39099,Villaescusa,39,Cantabria,-3.8588,43.36221
+43085,El Molar,43,Tarragona,0.70407,41.16442
+45028,Calera y Chozas,45,Toledo,-5.01621,39.87712
+45106,Mora,45,Toledo,-3.73774,39.68765
+45145,Recas,45,Toledo,-4.01115,40.05297
+45165,Talavera de la Reina,45,Toledo,-4.84905,39.95357
+45168,Toledo,45,Toledo,-4.01348,39.87074
+47171,Torrelobatón,47,Valladolid,-5.00343,41.64462
+48905,Zamudio,48,Bizkaia,-2.86641,43.28664
+48913,Zierbena,48,Bizkaia,-3.08892,43.34549
+49122,Monfarracinos,49,Zamora,-5.70156,41.56072
+50056,Botorrita,50,Zaragoza,-1.03184,41.48789
+50062,El Burgo de Ebro,50,Zaragoza,-0.72054,41.56506
+50068,Calatorao,50,Zaragoza,-1.3001,41.52165
+50073,Cariñena,50,Zaragoza,-1.20809,41.34929
+50099,Épila,50,Zaragoza,-1.31296,41.58842
+50147,Luceni,50,Zaragoza,-1.25895,41.81925
+50153,Magallón,50,Zaragoza,-1.39504,41.81243
+50181,Muel,50,Zaragoza,-1.12534,41.47271
+50182,La Muela,50,Zaragoza,-1.11705,41.57677
+50204,Pedrola,50,Zaragoza,-1.26212,41.76018
+50211,Plasencia de Jalón,50,Zaragoza,-1.26409,41.69294
+50219,La Puebla de Alfindén,50,Zaragoza,-0.74844,41.63531
+50228,Rueda de Jalón,50,Zaragoza,-1.34864,41.67682
+50288,Villanueva de Gállego,50,Zaragoza,-0.86228,41.78846
+50297,Zaragoza,50,Zaragoza,-0.92626,41.68104
+50903,Villamayor de Gállego,50,Zaragoza,-0.74,41.69345
