@@ -1,0 +1,126 @@
+{
+  "generado": "2026-10-08",
+  "expedientes": 293,
+  "expedientes_con_magnitud": 125,
+  "proyectos": 100,
+  "ccaa_con_datos": 17,
+  "ccaa_totales": 19,
+  "expedientes_verificados": 51,
+  "expedientes_refutados": 4,
+  "expedientes_cita_no_verifica": 0,
+  "pem_eur": 185070353.4,
+  "proyectos_con_potencia": 33,
+  "proyectos_por_via": {
+    "informatica_declarada": 10,
+    "electrica_declarada": 12,
+    "demanda_declarada": 1,
+    "transformacion": 10,
+    "sin_potencia": 67
+  },
+  "cartera_meur": 53388.7,
+  "brecha_fisica": {
+    "desde": 2019,
+    "hasta": 2024,
+    "crecimiento_equipo": 0.3084,
+    "crecimiento_fbcf": 0.2155,
+    "brecha": 0.0929,
+    "lectura": "El equipo que se queda en el país crece 9% más que la formación de capital que debería recogerlo. Es el desajuste que hay que explicar: o lo capitaliza un propietario no residente, o se está registrando como servicio importado en vez de como inversión."
+  },
+  "calendario": {
+    "escenarios": [
+      "bajo",
+      "central",
+      "alto"
+    ],
+    "retardo_a_obra": {
+      "anuncio": [
+        4.0,
+        3.0,
+        2.0
+      ],
+      "inicio": [
+        3.5,
+        2.5,
+        1.5
+      ],
+      "informacion_publica": [
+        2.5,
+        1.75,
+        1.0
+      ],
+      "autorizacion": [
+        2.0,
+        1.0,
+        0.25
+      ],
+      "obra": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "duracion_obra": [
+      3.0,
+      2.0,
+      1.5
+    ],
+    "probabilidad_obra": {
+      "anuncio": [
+        0.2,
+        0.35,
+        0.5
+      ],
+      "inicio": [
+        0.3,
+        0.45,
+        0.6
+      ],
+      "informacion_publica": [
+        0.4,
+        0.55,
+        0.7
+      ],
+      "autorizacion": [
+        0.6,
+        0.75,
+        0.9
+      ],
+      "obra": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "operativo": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  "factores": {
+    "cos_phi": [
+      0.95,
+      0.98,
+      1.0
+    ],
+    "pue": [
+      1.33,
+      1.43,
+      1.52
+    ],
+    "coste_mw_it": [
+      8.49,
+      9.35,
+      10.2
+    ],
+    "redundancia": 2.0
+  },
+  "directorio": {
+    "fichas": 247,
+    "con_expediente": 74,
+    "solo_municipio": 99,
+    "sin_expediente": 70,
+    "sin_municipio": 4,
+    "expedientes_sin_ficha": 87
+  }
+}

@@ -1,0 +1,101 @@
+id_proyecto,proyecto,ccaa,tipo,tipo_revisado,categoria,fecha_categoria,ampliacion,etapa_red,fecha_red,mw_acceso,gestor_red,nudo_red,mw_it_declarado,mw_it_inferido,mw_it_inferido_bajo,mw_it_inferido_alto,via_mw_it,inversion_anunciada_meur,inversion_comprometida_meur,pem_red_eur,inversion_ejecutada_meur,fase_directorio,mw_directorio_operativo,mw_directorio_total,es_centro,conexion_firme
+AR-P04,Calanza Inmuebles - Calatorao,Aragon,colocacion_mayorista,False,permiso_obtenido,2026-07-23,,concedido,2024-10-16,,,,,699.3006993006993,657.8947368421052,751.8796992481202,inferido,11805.0,,,,planificado,,300.0,True,True
+AR-P03,"Region Microsoft Aragon - La Muela, Villamayor de Gallego, Zaragoza",Aragon,hiperescala,False,en_tramitacion,2025-11-14,,,,,,,,1290.909090909091,1214.4736842105262,1387.96992481203,inferido,5300.0,,,,planificado,,,True,False
+AR-P10,"Box2Bit - El Burgo de Ebro, Epila, Zaragoza (reservas en Carinena y Calatayud)",Aragon,colocacion_mayorista,False,en_tramitacion,2024-11-29,,,,,,,,,,,no_aplica,3900.0,,,,planificado,,,True,False
+CB-P01,"Tavira 424 Servicios Corporativos - Pielagos, Villaescusa",Cantabria,,,en_tramitacion,2025-07-04,,,,,,imputa a inversion_meur,,349.65034965034965,328.9473684210526,375.9398496240601,inferido,3600.0,,,,planificado,,480.0,True,False
+AR-P06,Vantage Data Centers - Villanueva de Gallego,Aragon,colocacion_mayorista,False,en_tramitacion,2026-03,,,,,,,,62.93706293706294,59.21052631578947,67.66917293233082,inferido,3200.0,,,,planificado,,,True,False
+CM-P06,DC Estate Malpica - Mora,Castilla-La Mancha,ia,False,en_tramitacion,2026-07-15,,,,,,,300.0,,,,declarado,3000.0,,,,planificado,,300.0,True,False
+AR-P07,"Grupo Samca - Green IT Aragon - Luceni, Pedrola, Plasencia de Jalon",Aragon,colocacion_mayorista,False,permiso_obtenido,2025-09-15,,concedido,2025-12-30,,transporte,,,91.60839160839161,86.1842105263158,98.49624060150376,inferido,2627.0,,,,planificado,,300.0,True,True
+AR-P01,"Region AWS Aragon (Amazon Data Services Spain) - Villanueva de Gallego, El Burgo de Ebro, Huesca (Walqa), Zaragoza",Aragon,hiperescala,False,operativo,2022-11,obra,,,,,,,209.7902097902098,197.3684210526316,225.56390977443607,inferido,2500.0,,6224571.67,,operativo,,,True,False
+CM-P08,"B2B Axis East - Brihuega, Torija, Valdegrudas",Castilla-La Mancha,colocacion_mayorista,False,en_tramitacion,2025-03-17,,,,,,ha cumplido,,,,,no_aplica,1750.0,,,,planificado,,,True,False
+AR-P09,ACS Data Centers (ACS DC Infra La Puebla) - La Puebla de Alfinden,Aragon,colocacion_mayorista,False,permiso_obtenido,2025-08-21,,concedido,2024-09-05,150.0,transporte,Peñaflor,,209.7902097902098,197.3684210526316,225.56390977443607,inferido,1254.0,,20079937.79,,planificado,,150.0,True,True
+AS-P01,Sales For You Consulting - Salas,Asturias,,,anunciado,2026-08-03,,,,,,,120.0,,,,declarado,1226.3,,,,planificado,,120.0,True,False
+AR-P05,"Merlin Properties - Botorrita, Muel",Aragon,colocacion_mayorista,False,en_tramitacion,2026-07-22,,,,,,,,326.5734265734266,307.2368421052632,351.12781954887214,inferido,1224.0,,,,,,,True,False
+AR-P08,Grupo Azora - Tillion Data Centers - Villamayor de Gallego,Aragon,colocacion_mayorista,False,permiso_obtenido,2026-07-07,,concedido,2026-07-07,150.0,,,,104.8951048951049,98.6842105263158,112.78195488721803,inferido,1100.0,,,,sin_fase,,300.0,True,True
+CM-P03,Nostrum Data Centers (GUA1) - Guadalajara,Castilla-La Mancha,colocacion_mayorista,False,en_tramitacion,2026-04-28,,,,,,,26.3,,,,declarado,1000.0,,62879372.0,,planificado,,29.0,True,False
+CM-P01,"Zarza Networks - Calera y Chozas, Talavera de la Reina",Castilla-La Mancha,hiperescala,False,permiso_obtenido,2023-12-04,,,,,,Calera y Chozas 220 kV,,164.47552447552448,150.0,180.45112781954887,inferido,750.0,,,,planificado,,,True,False
+CM-P05,Solaria Energia y Medio Ambiente - Puertollano,Castilla-La Mancha,,,en_tramitacion,2026-07-13,,,,,,,30.0,,,,declarado,500.0,,,,planificado,,200.0,True,False
+EX-P05,Data Riocaya - Badajoz,Extremadura,,,en_tramitacion,2026-05-25,,,,,,toma el maximo,110.0,,,,declarado,469.83,,,,planificado,,300.0,True,False
+MA-P10,"Equinix (Spain) - Alcobendas, Algete, San Sebastian de los Reyes",Madrid,colocacion_mayorista,False,permiso_obtenido,2023-03-30,,,,,,,,,,,no_aplica,460.0,,441400.73,,operativo,,36.4,True,False
+CM-P11,Fortinet - Torija,Castilla-La Mancha,nube_regional,False,operativo,2025-01-29,,,,,,publica en el DOCM,,,,,no_aplica,40.0,,,,,,,True,False
+MA-P11,Microsoft 7724 Spain - Alcala de Henares,Madrid,hiperescala,False,en_tramitacion,2025-10-01,,,,,,,,,,,no_aplica,40.0,,,,en_construccion,,,True,False
+AN-P01-2,Sociedad Andaluza para el Desarrollo de las Telecomunicaciones - sin localizar,Andalucia,empresarial,False,en_construccion,2025-09-03,,,,,,,,,,,no_aplica,19.203,19.203,,,,,,True,False
+CB-P07,"CIGSA - Santander (PCTCAN, edificio CISGA)",Cantabria,colocacion_minorista,False,anunciado,2023-11-21,,,,,,,,,,,no_aplica,12.0,,,,,,,True,False
+GA-P01-2,Fundación Pública Gallega Centro Tecnológico de Supercomputación de Galicia - sin localizar,Galicia,hpc,False,permiso_obtenido,2024-11-22,,,,,,,,,,,no_aplica,9.027,9.027,,,,,,True,False
+CE-P02,AVANGREEN ENERGY SOLUTIONS - Ceuta,Ceuta,,,permiso_obtenido,2024-03-15,,,,,,,1.2,,,,declarado,4.26,4.26,,,,,,True,False
+CM-P10,Oasix - Talavera de la Reina,Castilla-La Mancha,edge,False,operativo,2022-06-29,,,,,,,,,,,no_aplica,1.3,,,,sin_fase,,,True,False
+MA-P19,ATLAS DC2 - Alcobendas,Madrid,,,permiso_obtenido,2025-11-25,,,,,,,,68.53146853146853,62.5,75.18796992481202,inferido,,,,,,,,True,False
+PV-P06,Aeternal Mentis - Laguardia,Pais Vasco,,,en_tramitacion,2021-09-20,,,,,,,,,,,no_aplica,,,,,,,,True,False
+AR-P02,Amazon Web Services - El Burgo de Ebro,Aragon,hiperescala,False,permiso_obtenido,2023,,,,,,,,,,,no_aplica,,,,,,,,True,False
+AR-P05-2,Aragon Plataforma Logistica - Huesca,Aragon,planeamiento,False,en_tramitacion,2023-03-15,,,,,,,,,,,no_aplica,,,,,,,,False,False
+AR-P04-2,"Axent Infraestructuras de Telecomunicaciones - El Burgo de Ebro, Zaragoza",Aragon,,,permiso_obtenido,2020-04-01,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P01-3,Ayuntamiento de Alcobendas - modificacion del PGOU para usos de centro de datos,Madrid,planeamiento,False,en_tramitacion,2023-12-13,,,,,,,,,,,no_aplica,,,,,,,,False,False
+AS-P02,Ayuntamiento de Salas - Salas,Asturias,planeamiento,False,en_tramitacion,2026-04-06,,,,,,ha podido leer el documento ambiental,,,,,no_aplica,,,,,,,,False,False
+AR-P01-5,Best Wonder Business - Alfajarín,Aragon,,,en_tramitacion,2022-06-14,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CM-P09,Box2Bit Axis South - Recas,Castilla-La Mancha,colocacion_mayorista,False,anunciado,2023-02-03,,,,,,,,,,,no_aplica,,,,,planificado,,,True,False
+AR-P03-2,Búfalo - Magallon,Aragon,,,en_tramitacion,2025-12-02,,,,,,,,,,,no_aplica,,,,,,,,True,False
+EX-P01,CC Green And Sustainable (Caceres Green) - Caceres,Extremadura,,,permiso_obtenido,2024-10-18,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CT-P01-3,CONESITE INVESTMENTS - Cerdanyola del Vallès,Cataluna,,,en_tramitacion,2025-08-05,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CT-P01-2,CPD de la Policia Local de Lloret de Mar,Cataluna,empresarial,False,permiso_obtenido,2019-03-08,,,,,,,,,,,no_aplica,,,,,,,,True,False
+AR-P02-2,Carrocerías Vicente Salomón Sanz - Remolinos,Aragon,,,en_tramitacion,2025-04-29,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P15,Cignus P2DC - Daganzo de Arriba,Madrid,,,permiso_obtenido,2026-02-06,,,,,,,,,,,no_aplica,,,,,,,,True,False
+AR-P10-2,Clave Logística Aragonesa - Villamayor de Gállego,Aragon,,,en_tramitacion,2025-07-02,,,,,,,,,,,no_aplica,,,,,,,,True,False
+RI-P01,Cuidados Integrales - El Villar de Arnedo,La Rioja,empresarial,False,en_tramitacion,2022-07-07,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P03-2,CyrusOne Madrid 1 - Alcobendas,Madrid,colocacion_mayorista,False,en_tramitacion,2026-04-27,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P08,DATA 4 Castilla - San Agustin del Guadalix,Madrid,colocacion_mayorista,False,permiso_obtenido,2026-07-31,,,,,,,,,,,no_aplica,,,,,operativo,25.0,50.0,True,False
+CM-P07,DC Estate Vianos - Vianos,Castilla-La Mancha,ia,False,en_tramitacion,2026-06-15,,,,,,,300.0,,,,declarado,,,,,,,,True,False
+CA-P03,"DC Mudarra - CPD San Lorenzo, Torrelobaton",Castilla y Leon,,,en_tramitacion,2026-07-22,,,,,,,,161.67832167832168,152.10526315789474,173.8345864661654,inferido,,,,,,,,True,False
+CA-P02,Data Center Hiperescalar IA Zamora (FRV-X Renewable / Edison Next) - Monfarracinos,Castilla y Leon,ia,False,en_tramitacion,2026-08-05,,,,,,,200.0,,,,declarado,,,,,,,,True,False
+AR-P12,"Data Center Ribera del Ebro - Luceni, Plasencia de Jalón, Rueda de Jalón",Aragon,,,en_tramitacion,2026-02-05,,,,,,,,287.83216783216784,262.5,315.7894736842105,inferido,,,30754184.37,,,,,True,False
+MA-P03,Data Holding Future - Alcala de Henares,Madrid,,,permiso_obtenido,2020-05-26,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P02,"Digital DHF Iberia - Alcala de Henares, Alcalá de Henares",Madrid,colocacion_mayorista,False,permiso_obtenido,2025-03-11,,,,,,de 3,,68.53146853146853,62.5,75.18796992481202,inferido,,,,,operativo,,15.600000000000001,True,False
+AR-P10-3,Expediente ARB-41,Aragon,,,en_tramitacion,2025-12-17,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CT-P04,Expediente CTB-07,Cataluna,,,en_tramitacion,2023-12-19,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CT-P01,Expediente CTF-01,Cataluna,planeamiento,False,sin_etapa,,,,,,,,,,,,no_aplica,,,,,,,,False,False
+IB-P01,Expediente IBF-01,Illes Balears,,,permiso_obtenido,2020-07-16,,,,,,,,,,,no_aplica,,,,,,,,True,False
+IB-P02,Expediente IBF-02,Illes Balears,,,permiso_obtenido,2021-11-16,,,,,,,,,,,no_aplica,,,,,,,,True,False
+IB-P03,Expediente IBF-03,Illes Balears,,,permiso_obtenido,2026-05-05,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P01,FVI ASG Spanish Propco 3 - Meco,Madrid,,,permiso_obtenido,2025-05-16,,,,,,,,34.26573426573427,31.25,37.59398496240601,inferido,,,8745586.68,,planificado,,25.0,True,False
+CT-P03,GEP BESOS LOGISTICS SPAIN - Barcelona,Cataluna,,,en_tramitacion,2026-07-16,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CT-P02-2,GTR BARCELONA 1 - Cerdanyola del Vallès,Cataluna,colocacion_mayorista,False,en_tramitacion,2025-10-01,,,,,,,,,,,no_aplica,,,,,,,,True,False
+GA-P01,Galicia Green Data Center - Curtis,Galicia,,,permiso_obtenido,2026-02-16,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CB-P06,Google - Santander (PCTCAN),Cantabria,infraestructura,False,en_tramitacion,2026-05-07,,,,,,imputa nada,,,,,no_aplica,,,,,,,,False,False
+MA-P06,"I-DE Redes Electricas Inteligentes - Alcobendas, Algete, Getafe",Madrid,infraestructura,False,permiso_obtenido,2025-06-27,,,,,,,,,,,no_aplica,,,,,,,,False,False
+MA-P01-2,"I-DE Redes Electricas Inteligentes - Alcobendas, San Sebastián de los Reyes",Madrid,infraestructura,False,permiso_obtenido,2025-04-25,,,,,,,,,,,no_aplica,,,,,,,,False,False
+CM-P12,Iberdrola - Toledo,Castilla-La Mancha,infraestructura,False,anunciado,2026-08-19,,,,,,asignan MW,,,,,no_aplica,,,,,,,,False,False
+MA-P14,"Ignis Data Alfa - No consta, Villalbilla",Madrid,colocacion_mayorista,False,en_tramitacion,2026-02-10,,,,,,,,137.06293706293707,125.0,150.37593984962405,inferido,,,17435343.87,,,,,True,False
+MA-P13,"Ignis Data Beta - Alcobendas, San Sebastian de los Reyes",Madrid,colocacion_mayorista,False,en_tramitacion,2026-03-06,,,,,,,,174.82517482517483,164.4736842105263,187.96992481203006,inferido,,,,,,,,True,False
+MA-P12,"Ignis Data Tria - Loeches, San Fernando de Henares, Torres de la Alameda",Madrid,colocacion_mayorista,False,en_tramitacion,2026-02-16,,,,,,,,338.46153846153845,318.42105263157896,363.90977443609023,inferido,,,,,,,,True,False
+AR-P11-2,Instituto Aragonés de Fomento - Zaragoza,Aragon,,,en_tramitacion,2025-08-20,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P07,Interxion Espana - Madrid (c/ Alfonso Gomez 4),Madrid,colocacion_minorista,False,en_tramitacion,2026-01-12,,,,,,,,6.853146853146854,6.25,7.518796992481203,inferido,,,452620.0,,planificado,,40.8,True,False
+MA-P03-4,Iron Mountain Data Centers - Ajalvir,Madrid,colocacion_mayorista,False,en_tramitacion,2024-11-22,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P18,Iron Mountain Data Centers España - San Fernando de Henares,Madrid,colocacion_mayorista,False,permiso_obtenido,2026-01-30,,,,,,,,86.34965034965036,78.74999999999999,94.73684210526315,inferido,,,9802064.33,,operativo,,79.0,True,False
+AR-P09-3,Junta Gestora Area 90/1 (extension de PLAZA) - Zaragoza,Aragon,planeamiento,False,en_tramitacion,2026-03-20,,,,,,,,,,,no_aplica,,,,,,,,False,False
+CT-P01-4,MEDITERRA DATACENTERS IBERIA - Montmeló,Cataluna,,,permiso_obtenido,2026-09-29,,,,,,,,,,,no_aplica,,,,,,,,True,False
+EX-P04,Merlin Edged - Navalmoral de la Mata,Extremadura,colocacion_mayorista,False,en_tramitacion,2026-05-22,,,,,,,192.0,,,,declarado,,,,,,,,True,False
+MA-P05,"Merlin Properties - Getafe, Madrid",Madrid,colocacion_mayorista,False,permiso_obtenido,2026-03-05,,,,,,,,13.706293706293708,12.5,15.037593984962406,inferido,,,701076.69,,,,,True,False
+PV-P01,"Merlín Logística - Ribabellosa, Zierbena",Pais Vasco,colocacion_mayorista,False,permiso_obtenido,2023-12-22,,,,,,,,,,,no_aplica,,,,,operativo,22.0,118.0,True,False
+PV-P04,Moana Data - Zamudio,Pais Vasco,,,permiso_obtenido,2026-05,,,,,,,,,,,no_aplica,,,,,planificado,,30.0,True,False
+AR-P15,"Molinos del Ebro - Pedrola, Plasencia de Jalón, Rueda de Jalón",Aragon,,,en_tramitacion,2026-02-25,,,,,,,,,,,no_aplica,,,,,,,,True,False
+AR-P05-3,Máquina Solar - Villamayor de Gállego,Aragon,,,en_tramitacion,2026-03-20,,concedido,2025-04-03,,,,,,,,no_aplica,,,,,,,,True,True
+NC-P01,NASERTIC - Pamplona,Navarra,empresarial,False,en_tramitacion,2023-12-28,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P02-3,NTT Global Data Centers Mad1 - Las Rozas de Madrid,Madrid,colocacion_mayorista,False,permiso_obtenido,2023-02-27,,,,,,,,,,,no_aplica,,,,,,,,True,False
+VC-P01,Nethits Telecom Group - València (Docks),Comunitat Valenciana,colocacion_minorista,False,en_tramitacion,2022-08-19,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CT-P06,PARC LOGISTIC DE LA ZONA FRANCA - Barcelona,Cataluna,,,en_tramitacion,2021-11-29,,,,,,,,,,,no_aplica,,,,,,,,True,False
+AR-P11-3,PE LAS CERRADAS - Cuevas de Almudén,Aragon,,,en_tramitacion,2023-07-31,,,,,,,,,,,no_aplica,,,,,,,,True,False
+CB-P03,"PSIR del Parque Empresarial VIPAR, AIEP Pielagos-Villaescusa (poligono en el que, segun la nota oficial de 25-02-2025, se situa la fase 1 del campus Altamira)",Cantabria,planeamiento,False,en_tramitacion,2023-03-30,,,,,,,,,,,no_aplica,,,,,,,,False,False
+MA-P17,"Plan Especial de Mejora Urbana Las Hilanderas, P.I. de Los Angeles",Madrid,planeamiento,False,en_tramitacion,2025-02-26,,,,,,,,,,,no_aplica,,,,,,,,False,False
+CO-P01,Preval Renewable 2 - Monforte del Cid,Comunitat Valenciana,,,en_tramitacion,2026-06-26,,,,,,,,,,,no_aplica,,,,,,,,True,False
+RE-P01,Promoción y Desarrollo de Data Centers - Caravaca de la Cruz,Region de Murcia,,,en_tramitacion,2026-06-24,,concedido,2026-06-24,,distribucion,,,,,,no_aplica,,,1525419.83,,,,,True,True
+CT-P05,Quetta Molins - Molins de Rei,Cataluna,,,en_tramitacion,2026-03-13,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P02-5,"Quetta Tres Cantos - Colmenar Viejo, Tres Cantos",Madrid,,,en_tramitacion,2026-04-29,,,,,,,,,,,no_aplica,,,,,,,,True,False
+MA-P04,"Red Electrica de Espana - Alcala de Henares, Anchuelo, Los Santos de la Humosa",Madrid,infraestructura,False,permiso_obtenido,2026-05-07,,,,,,,,,,,no_aplica,,,7862946.03,,,,,False,False
+CM-P02,Red Electrica de Espana - Calera y Chozas,Castilla-La Mancha,infraestructura,False,permiso_obtenido,2026-04-27,,,,,,Calera y Chozas 220 kV,,,,,no_aplica,,,367085.0,,,,,False,False
+MA-P05-2,"Region Microsoft Madrid - Algete, Meco, San Sebastian de los Reyes",Madrid,hiperescala,False,permiso_obtenido,2022-06-06,,,,,,,,41.11888111888112,37.5,45.11278195488722,inferido,,,14849206.63,,,,,True,False
+AN-P01,Saltburn Holding - Málaga,Andalucia,,,en_tramitacion,2026-06-02,,pendiente,2026-06-02,,,,100.0,,,,declarado,,,,,,,,True,False
+CB-P05,Santander Global Services - Medio Cudeyo (Solares),Cantabria,empresarial,False,permiso_obtenido,2023-05-12,,,,,,,,1.3706293706293706,1.25,1.5037593984962405,inferido,,,2949537.78,,,,,True,False
+CA-P01,Skygrid Data Systems - Aguilar de Campoo,Castilla y Leon,,,en_tramitacion,2026-06-04,,,,,,,,,,,no_aplica,,,,,,,,True,False
+AR-P07-2,Suelo y Vivienda de Aragón - Villanueva de Gállego,Aragon,planeamiento,False,permiso_obtenido,2024-05-17,,,,,,,,,,,no_aplica,,,,,,,,False,False
+AR-P20,Telefonica - interconexion de centros de datos en Aragon,Aragon,infraestructura,False,en_tramitacion,2026-06-04,,,,,,,,,,,no_aplica,,,,,,,,False,False
+CB-P04,Telxius Cable Espana - Santander,Cantabria,infraestructura,False,en_tramitacion,2023-02-01,,,,,,,,,,,no_aplica,,,,,,,,False,False
+AR-P03-6,refuerzo de la red de distribución,Aragon,infraestructura,False,permiso_obtenido,2026-03-10,,,,,,,,,,,no_aplica,,,,,,,,False,False

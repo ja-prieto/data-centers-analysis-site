@@ -1,0 +1,140 @@
+cod_ine,nombre,cod_provincia,provincia,lon,lat
+01031,Laguardia,01,Araba/Álava,-2.58127,42.55349
+01047,Ribera Baja/Erriberabeitia,01,Araba/Álava,-2.90427,42.72278
+02003,Albacete,02,Albacete,-1.89124,38.95549
+02076,Vianos,02,Albacete,-2.51331,38.60294
+03014,Alacant/Alicante,03,Alacant/Alicante,-0.54706,38.3699
+03088,Monforte del Cid,03,Alacant/Alicante,-0.6954,38.38385
+03140,Villena,03,Alacant/Alicante,-0.91424,38.63375
+06015,Badajoz,06,Badajoz,-6.84969,38.8669
+06083,Mérida,06,Badajoz,-6.40913,38.97473
+07015,Ciutadella de Menorca,07,Illes Balears,3.89388,39.99516
+07026,Eivissa,07,Illes Balears,1.41876,38.91464
+07032,Maó,07,Illes Balears,4.23184,39.91401
+07036,Marratxí,07,Illes Balears,2.72964,39.62373
+07040,Palma,07,Illes Balears,2.69879,39.58307
+08019,Barcelona,08,Barcelona,2.15275,41.4001
+08101,L'Hospitalet de Llobregat,08,Barcelona,2.11263,41.35823
+08123,Molins de Rei,08,Barcelona,2.03365,41.41992
+08135,Montmeló,08,Barcelona,2.25169,41.55663
+08194,Sant Adrià de Besòs,08,Barcelona,2.22131,41.4247
+08200,Sant Boi de Llobregat,08,Barcelona,2.0417,41.33389
+08205,Sant Cugat del Vallès,08,Barcelona,2.0742,41.46166
+08213,Sant Fruitós de Bages,08,Barcelona,1.87214,41.75408
+08266,Cerdanyola del Vallès,08,Barcelona,2.12234,41.48165
+08279,Terrassa,08,Barcelona,2.00824,41.57553
+08301,Viladecans,08,Barcelona,2.03106,41.30299
+10037,Cáceres,10,Cáceres,-6.45826,39.37305
+10131,Navalmoral de la Mata,10,Cáceres,-5.55728,39.93158
+11020,Jerez de la Frontera,11,Cádiz,-5.96846,36.68229
+11027,El Puerto de Santa María,11,Cádiz,-6.23518,36.63212
+12040,Castelló de la Plana,12,Castelló/Castellón,-0.04483,39.99762
+13071,Puertollano,13,Ciudad Real,-4.06128,38.64971
+14021,Córdoba,14,Córdoba,-4.7021,37.84902
+15032,Curtis,15,A Coruña,-8.04669,43.13455
+15078,Santiago de Compostela,15,A Coruña,-8.51791,42.9106
+17073,Fornells de la Selva,17,Girona,2.81157,41.9265
+17095,Lloret de Mar,17,Girona,2.8343,41.72279
+18072,Escúzar,18,Granada,-3.77695,37.05114
+18087,Granada,18,Granada,-3.59053,37.18667
+19053,Brihuega,19,Guadalajara,-2.85371,40.7404
+19130,Guadalajara,19,Guadalajara,-3.13998,40.60595
+19274,Torija,19,Guadalajara,-3.03933,40.74271
+19302,Valdegrudas,19,Guadalajara,-3.00495,40.71725
+20055,Arrasate/Mondragón,20,Gipuzkoa,-2.49946,43.07024
+20069,Donostia/San Sebastián,20,Gipuzkoa,-1.9872,43.30592
+22084,Castejón de Sos,22,Huesca,0.51072,42.52785
+22125,Huesca,22,Huesca,-0.42961,42.12888
+22904,La Sotonera,22,Huesca,-0.54207,42.25136
+25011,Alcarràs,25,Lleida,0.46619,41.60946
+26089,Logroño,26,La Rioja,-2.45355,42.46436
+26170,El Villar de Arnedo,26,La Rioja,-2.07065,42.31283
+28002,Ajalvir,28,Madrid,-3.48081,40.52509
+28005,Alcalá de Henares,28,Madrid,-3.36923,40.49435
+28006,Alcobendas,28,Madrid,-3.62958,40.53491
+28009,Algete,28,Madrid,-3.5307,40.60786
+28012,Anchuelo,28,Madrid,-3.27518,40.46543
+28045,Colmenar Viejo,28,Madrid,-3.74552,40.66442
+28053,Daganzo de Arriba,28,Madrid,-3.44385,40.55983
+28058,Fuenlabrada,28,Madrid,-3.79644,40.2838
+28059,Fuente el Saz de Jarama,28,Madrid,-3.52414,40.64239
+28065,Getafe,28,Madrid,-3.67362,40.29946
+28075,Loeches,28,Madrid,-3.41899,40.38291
+28079,Madrid,28,Madrid,-3.69627,40.46513
+28083,Meco,28,Madrid,-3.32245,40.55598
+28096,Navalcarnero,28,Madrid,-4.01292,40.28878
+28113,Pinto,28,Madrid,-3.68602,40.24682
+28115,Pozuelo de Alarcón,28,Madrid,-3.81532,40.42808
+28127,Las Rozas de Madrid,28,Madrid,-3.89204,40.52266
+28129,San Agustín del Guadalix,28,Madrid,-3.63207,40.68611
+28130,San Fernando de Henares,28,Madrid,-3.48586,40.4362
+28134,San Sebastián de los Reyes,28,Madrid,-3.60097,40.57458
+28137,Los Santos de la Humosa,28,Madrid,-3.25459,40.51314
+28154,Torres de la Alameda,28,Madrid,-3.3657,40.40941
+28172,Villalbilla,28,Madrid,-3.32887,40.44334
+28903,Tres Cantos,28,Madrid,-3.72756,40.61223
+29067,Málaga,29,Málaga,-4.42557,36.76698
+30005,Alcantarilla,30,Murcia,-1.23201,37.97209
+30015,Caravaca de la Cruz,30,Murcia,-2.02662,38.00674
+30030,Murcia,30,Murcia,-1.11014,37.92547
+31076,Cizur,31,Navarra,-1.73672,42.75717
+31201,Pamplona/Iruña,31,Navarra,-1.65193,42.81519
+33035,Llanera,33,Asturias,-5.86383,43.45388
+33059,Salas,33,Asturias,-6.24832,43.41363
+34004,Aguilar de Campoo,34,Palencia,-4.28278,42.79247
+35004,Arrecife,35,Las Palmas,-13.56256,28.97886
+35016,Las Palmas de Gran Canaria,35,Las Palmas,-15.45458,28.09169
+38017,Granadilla de Abona,38,Santa Cruz de Tenerife,-16.56441,28.11298
+38023,San Cristóbal de La Laguna,38,Santa Cruz de Tenerife,-16.32818,28.51172
+38024,Los Llanos de Aridane,38,Santa Cruz de Tenerife,-17.90236,28.61723
+39042,Medio Cudeyo,39,Cantabria,-3.75964,43.37999
+39052,Piélagos,39,Cantabria,-3.94451,43.38886
+39075,Santander,39,Cantabria,-3.83051,43.46401
+39099,Villaescusa,39,Cantabria,-3.8588,43.36221
+41096,Valencina de la Concepción,41,Sevilla,-6.07307,37.42153
+42173,Soria,42,Soria,-2.90589,41.86486
+43060,Flix,43,Tarragona,0.56774,41.26175
+43085,El Molar,43,Tarragona,0.70407,41.16442
+43095,El Morell,43,Tarragona,1.21685,41.20292
+44093,Cuevas de Almudén,44,Teruel,-0.8193,40.73014
+44191,La Puebla de Híjar,44,Teruel,-0.44842,41.24721
+45028,Calera y Chozas,45,Toledo,-5.01621,39.87712
+45106,Mora,45,Toledo,-3.73774,39.68765
+45145,Recas,45,Toledo,-4.01115,40.05297
+45165,Talavera de la Reina,45,Toledo,-4.84905,39.95357
+45168,Toledo,45,Toledo,-4.01348,39.87074
+46190,Paterna,46,València/Valencia,-0.46672,39.52291
+46214,Riba-roja de Túria,46,València/Valencia,-0.56108,39.52215
+46220,Sagunt/Sagunto,46,València/Valencia,-0.27992,39.69253
+46250,València,46,València/Valencia,-0.36078,39.42087
+47171,Torrelobatón,47,Valladolid,-5.00343,41.64462
+48015,Basauri,48,Bizkaia,-2.88859,43.2334
+48901,Derio,48,Bizkaia,-2.8796,43.30747
+48905,Zamudio,48,Bizkaia,-2.86641,43.28664
+48913,Zierbena,48,Bizkaia,-3.08892,43.34549
+49122,Monfarracinos,49,Zamora,-5.70156,41.56072
+50017,Alfajarín,50,Zaragoza,-0.64882,41.63205
+50025,La Almunia de Doña Godina,50,Zaragoza,-1.36083,41.47164
+50056,Botorrita,50,Zaragoza,-1.03184,41.48789
+50062,El Burgo de Ebro,50,Zaragoza,-0.72054,41.56506
+50067,Calatayud,50,Zaragoza,-1.62374,41.37619
+50068,Calatorao,50,Zaragoza,-1.3001,41.52165
+50073,Cariñena,50,Zaragoza,-1.20809,41.34929
+50099,Épila,50,Zaragoza,-1.31296,41.58842
+50101,Escatrón,50,Zaragoza,-0.27459,41.25797
+50147,Luceni,50,Zaragoza,-1.25895,41.81925
+50153,Magallón,50,Zaragoza,-1.39504,41.81243
+50164,Mediana de Aragón,50,Zaragoza,-0.7298,41.44967
+50181,Muel,50,Zaragoza,-1.12534,41.47271
+50182,La Muela,50,Zaragoza,-1.11705,41.57677
+50199,Osera de Ebro,50,Zaragoza,-0.56571,41.53497
+50204,Pedrola,50,Zaragoza,-1.26212,41.76018
+50211,Plasencia de Jalón,50,Zaragoza,-1.26409,41.69294
+50219,La Puebla de Alfindén,50,Zaragoza,-0.74844,41.63531
+50223,Remolinos,50,Zaragoza,-1.17458,41.84662
+50228,Rueda de Jalón,50,Zaragoza,-1.34864,41.67682
+50235,San Mateo de Gállego,50,Zaragoza,-0.73006,41.83725
+50288,Villanueva de Gállego,50,Zaragoza,-0.86228,41.78846
+50297,Zaragoza,50,Zaragoza,-0.92626,41.68104
+50903,Villamayor de Gállego,50,Zaragoza,-0.74,41.69345
+51001,Ceuta,51,Ceuta,-5.34666,35.89336

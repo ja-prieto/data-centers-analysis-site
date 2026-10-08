@@ -1,0 +1,16 @@
+id_proyecto,ccaa,tipo,figura,desde,hasta,meses,id_desde,id_hasta
+AR-P01,Aragon,Ambiental,Evaluacion de impacto ambiental,2019-11-13,2020-06-25,7.39,ARF-01,ARF-06
+AR-P01,Aragon,Electrico,Evaluacion de impacto ambiental,2020-03-02,2020-07-31,4.96,ARB-21,ARB-14
+AR-P01,Aragon,Urbanistico,PIGA / DIGA (Aragon),2020-06-08,2022-11-15,29.24,ARB-20,AR-01
+AR-P04,Aragon,Ambiental,Evaluacion de impacto ambiental,2025-08-25,2026-07-23,10.91,ARF-46,AR-10
+AR-P04,Aragon,Urbanistico,PIGA / DIGA (Aragon),2025-08-11,2026-08-18,12.22,ARF-43,ARF-90
+CE-P02,Ceuta,Subvencion,Subvencion,2022-11-11,2024-03-15,16.1,CE-01,CE-03
+CM-P01,Castilla-La Mancha,Urbanistico,PSI (Castilla-La Mancha),2022-03-11,2024-10-22,31.41,CLM-01,CM-01
+GA-P01,Galicia,Urbanistico,,2025-01-23,2026-02-16,12.78,GAF-01,GAF-03
+MA-P02,Madrid,Electrico,Autorizacion electrica,2025-01-16,2025-03-11,1.77,MA-03,MA-31
+MA-P05-2,Madrid,Ambiental,Evaluacion de impacto ambiental,2021-08-10,2022-06-06,9.86,MDB-11,MDB-02
+MA-P05-2,Madrid,Electrico,Autorizacion electrica,2022-08-01,2022-11-21,3.68,MDB-13,MDB-12
+MA-P10,Madrid,Electrico,Autorizacion electrica,2025-06-03,2026-05-13,11.3,MDB-14,MDB-15
+MA-P18,Madrid,Electrico,Autorizacion electrica,2025-11-12,2026-01-30,2.6,MA-32,MA-34
+PV-P01,Pais Vasco,Ambiental,Autorizacion ambiental integrada,2023-05-09,2023-12-22,7.46,PVF-01,PVF-02
+PV-P04,Pais Vasco,Ambiental,Autorizacion ambiental integrada,2025-11-14,2026-05-15,5.98,PVF-05,PV-02

@@ -1,0 +1,39 @@
+# El despliegue del cuaderno en GitHub Pages. Vive en el repositorio de la web, donde lo copia
+# `herramientas/publicar_web.sh` en cada publicacion; el original esta en
+# `data-centers-analysis/herramientas/pages/`. La web llega ya compilada: aqui solo se sube.
+#
+# Requiere, una sola vez, Settings -> Pages -> Source: «GitHub Actions».
+name: Publicar en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un despliegue cada vez. No se cancela el que esta en curso: un despliegue de Pages cortado a
+# medias deja la pagina servida a medias.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/configure-pages@v5
+      # La raiz entera: index.html, assets/ y public/. El `.nojekyll` impide que Jekyll se coma
+      # las carpetas.
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - id: despliegue
+        uses: actions/deploy-pages@v4

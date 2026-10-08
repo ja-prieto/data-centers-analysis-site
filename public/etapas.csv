@@ -1,0 +1,294 @@
+id,id_proyecto,etapa,orden,fecha,fuente,tramite_etiquetado,evidencia
+ANF-01,AN-P01,inicio,1,2026-06-02,documento,Informacion publica,"de mayo de 2026, por la que se declara inversion empresarial de interes estrategico para andalucia el «proyecto de centr"
+CP-01,AN-P01-2,inicio,1,2024-03-20,fila,Anuncio previo,anuncio previo
+CP-02,AN-P01-2,inicio,1,2024-04-12,fila,Anuncio previo,anuncio previo
+CP-03,AN-P01-2,autorizacion,3,2024-07-19,documento,Licitacion,the notice on ted website 435790-2024 - licitacion españa – trabajos de construccion – obra de construccion de
+CP-04,AN-P01-2,autorizacion,3,2024-08-09,documento,Licitacion,the notice on ted website 481338-2024 - licitacion españa – trabajos de construccion – obra de construccion de
+CP-07,AN-P01-2,obra,4,2025-09-03,documento,Adjudicacion,cia oj s 168/2025 03/09/2025 anuncio de adjudicacion de contrato o concesion. regimen normal obras 1. comprador
+ARF-01,AR-P01,informacion_publica,2,2019-11-13,documento,Informacion publica,"cacion y empleo, por el que se somete a informacion publica el proyecto de convenio marco entre el gobierno de aragon y"
+ARB-23,AR-P01,inicio,1,2019-12-07,documento,Informacion publica,"al autonomico, en que se sustanciara el convenio marco de colaboracion entre el gobierno de aragon y amazon data s"
+ARF-02,AR-P01,informacion_publica,2,2020-01-07,documento,Informacion publica,"stion ambiental, por el que se somete a informacion y participacion publica el proyecto de interes general de aragon, promovido por “am"
+ARF-03,AR-P01,inicio,1,2020-02-11,documento,Autorizacion ambiental integrada,or la que se dispone la publicacion del convenio marco de colaboracion entre el gobierno de aragon y “amazon data
+ARB-21,AR-P01,informacion_publica,2,2020-03-02,documento,Informacion publica,o empresarial de zaragoza relativo a la informacion publica de la autorizacion administrativa previa y autorizacion adm
+ARB-22,AR-P01,informacion_publica,2,2020-03-02,documento,Informacion publica,o empresarial de zaragoza relativo a la informacion publica de la autorizacion administrativa previa y autorizacion adm
+ARB-33,AR-P01,inicio,1,2020-03-05,documento,Informacion publica,re de 2019 se declaro como inversion de interes autonomico y de interes general de aragon el proyecto para la implanta
+ARB-20,AR-P01,informacion_publica,2,2020-06-08,documento,Informacion publica,"ud y la documentacion que la acompaña a informacion publica durante el plazo de diez dias habiles, a los efectos oportu"
+ARF-06,AR-P01,autorizacion,3,2020-06-25,documento,Informacion publica,"dia 24 de junio de 2020, por el que se aprueba de forma definitiva parcial el proyecto de interes general de aragon para la im"
+ARB-14,AR-P01,autorizacion,3,2020-07-31,documento,Informacion publica,"dia 30 de julio de 2020, por el que se aprueba de forma definitiva el proyecto de interes general de aragon para la implantaci"
+ARF-07,AR-P01,autorizacion,3,2020-08-07,documento,Informacion publica,"agones de gestion ambiental, por la que se formula declaracion de impacto ambiental y se otorga autorizacion ambiental integrada del proyecto d"
+ARF-08,AR-P01,autorizacion,3,2020-08-10,documento,Informacion publica,"agones de gestion ambiental, por la que se formula declaracion de impacto ambiental y se otorga autorizacion ambiental integrada del proyecto d"
+ARF-09,AR-P01,autorizacion,3,2020-08-11,documento,Informacion publica,"agones de gestion ambiental, por la que se formula declaracion de impacto ambiental y se otorga autorizacion ambiental integrada del proyecto d"
+ARF-10,AR-P01,inicio,1,2020-11-20,documento,Aprobacion,or la que se dispone la publicacion del protocolo de colaboracion entre el gobierno de aragon y el ayuntamiento de villanueva
+ARF-11,AR-P01,inicio,1,2021-03-22,documento,Informe ambiental,por el que se declara como inversion de interes autonomico y de interes general de aragon el proyecto para la implanta
+ARF-13,AR-P01,informacion_publica,2,2021-05-19,documento,Informacion publica,"/506/2021, de 11 de mayo, por la que se aprueba inicialmente el plan de interes general de aragon para la implantacion d"
+ARF-14,AR-P01,autorizacion,3,2021-08-12,documento,Informacion publica,"el dia 29 de julio de 2021, por el que se aprueba el plan de interes general de aragon, para la implantacion de un poligono de i"
+AR-01,AR-P01,operativo,5,2022-11,fila,Proyecto de Interes General de Aragon,estado: en servicio desde nov-2022
+AR-20,AR-P01,informacion_publica,2,2023-01-11,documento,Informacion publica,"empresarial de zaragoza, relativo a la informacion publica de la autorizacion administrativa previa y autorizacion adm"
+ARB-13,AR-P01,autorizacion,3,2023-04-11,documento,Informacion publica,"y desarrollo empresarial, por la que se otorga la autorizacion administrativa previa y de construccion de la instalacion “lsat 132 kv set"
+ARB-12,AR-P01,autorizacion,3,2023-05-30,documento,Informacion publica,"y desarrollo empresarial, por la que se otorga la autorizacion administrativa previa y de construccion de instalacion “lsat 132 kv set vi"
+AR-21,AR-P01,informacion_publica,2,2024-01-05,documento,Informacion publica,"oza, por el que se somete al tramite de informacion publica la solicitud de autorizacion administrativa previa y de con"
+ARF-20,AR-P01,inicio,1,2024-06-10,documento,Informacion publica,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto de expansion regi
+ARF-21,AR-P01,informacion_publica,2,2024-06-27,documento,Informacion publica,"por la que se somete a los tramites de informacion publica, audiencia de interesados e informe de las administraciones"
+ARF-23,AR-P01,autorizacion,3,2024-08-12,documento,Informacion publica,"om/902/2024, de 31 de julio, por la que se aprueba la modificacion no sustancial numero 2 del proyecto de interes general de a"
+ARF-24,AR-P01,inicio,1,2024-09-20,documento,Informacion publica,luida en la declaracion de inversion de interes autonomico y de interes general de aragon del proyecto promovido por a
+ARF-27,AR-P01,informacion_publica,2,2024-12-13,documento,Informacion publica,"/2024, de 4 de diciembre, por la que se aprueba inicialmente el plan de interes general “expansion de la region aws en a"
+ARF-28,AR-P01,informacion_publica,2,2024-12-18,documento,Informacion publica,"stion ambiental, por el que se somete a informacion y participacion publica el plan de interes general de aragon “expansion de la regio"
+ARF-29,AR-P01,inicio,1,2025-01-03,documento,Informacion publica,luida en la declaracion de inversion de interes autonomico y de interes general de aragon del proyecto promovido por a
+ARB-11,AR-P01,autorizacion,3,2025-02-27,documento,Informacion publica,"omia, empleo e industria, por la que se otorga la autorizacion administrativa previa y de construccion de instalacion “lsat 220 kv dc ali"
+ARF-31,AR-P01,informacion_publica,2,2025-03-25,etiqueta del lector,Informacion publica,informacion publica
+ARF-32,AR-P01,informacion_publica,2,2025-03-25,etiqueta del lector,Informacion publica,informacion publica
+ARF-33,AR-P01,informacion_publica,2,2025-03-25,etiqueta del lector,Informacion publica,informacion publica
+ARF-38,AR-P01,informacion_publica,2,2025-06-06,documento,Informacion publica,"/2024, de 4 de diciembre, por la que se aprobo inicialmente el plan de interes general de aragon ""expansion de la regio"
+ARF-39,AR-P01,informacion_publica,2,2025-06-06,documento,Informacion publica,"ca y logistica, por el que se someten a informacion y participacion publica tres proyectos de lineas subterraneas de media tension y ce"
+ARF-40,AR-P01,informacion_publica,2,2025-06-19,documento,Informacion publica,de 4 de diciembre de 2024 por la que se aprobo inicialmente el plan de interes general de aragon “expansion de la regio
+ARF-47,AR-P01,autorizacion,3,2025-08-25,documento,Informacion publica,", del gobierno de aragon, por el que se aprueba definitivamente de forma parcial el plan de interes general de aragon “ampl"
+AR-05,AR-P01,obra,4,2025-10,fila,"Declaracion de impacto ambiental (INAGA), favorable",estado: en obra
+ARB-09,AR-P01,autorizacion,3,2025-10-31,documento,Informacion publica,"agones de gestion ambiental, por la que se formula la declaracion de impacto ambiental del proyecto de construccion de redes de alta tension vdg1e"
+ARB-10,AR-P01,autorizacion,3,2025-10-31,documento,Informacion publica,"agones de gestion ambiental, por la que se formula la declaracion de impacto ambiental del proyecto de construccion de redes de alta tension y cen"
+ARB-08,AR-P01,autorizacion,3,2025-11-05,documento,Informacion publica,"agones de gestion ambiental, por la que se formula la declaracion de impacto ambiental del proyecto de construccion de redes de alta tension y cen"
+ARF-54,AR-P01,autorizacion,3,2025-11-05,documento,Informacion publica,"agones de gestion ambiental, por la que se formula la declaracion de impacto ambiental del proyecto de infraestructuras hidraulicas exteriores que"
+ARF-55,AR-P01,autorizacion,3,2025-11-06,documento,Informacion publica,"agones de gestion ambiental, por la que se formula la declaracion de impacto ambiental del proyecto de infraestructura hidraulica exterior que dar"
+ARB-07,AR-P01,autorizacion,3,2025-11-10,documento,Informacion publica,"agones de gestion ambiental, por la que se formula la declaracion de impacto ambiental del proyecto de construccion de redes de alta tension y cen"
+ARF-56,AR-P01,autorizacion,3,2025-11-10,documento,Informacion publica,"tion ambiental, por la que se adopta la decision de no someter al procedimiento de evaluacion de impacto ambiental el proy"
+ARF-57,AR-P01,autorizacion,3,2025-11-11,documento,Informacion publica,"agones de gestion ambiental, por la que se formula la declaracion de impacto ambiental del proyecto de las infraestructuras hidraulicas exteriores"
+ARF-58,AR-P01,autorizacion,3,2025-11-11,documento,Informacion publica,"agones de gestion ambiental, por la que se formula la declaracion de impacto ambiental de las infraestructuras hidraulicas exteriores que daran se"
+AR-03,AR-P01,autorizacion,3,2025-11-12,fila,Aprobacion parcial PIGA + declaracion de utilidad publica; informacion publica 20 dias habiles,declaracion de utilidad publica
+ARF-59,AR-P01,autorizacion,3,2025-11-21,documento,Declaracion de impacto ambiental,"agones de gestion ambiental, por la que se formula declaracion de impacto ambiental y se otorga autorizacion ambiental integrada del proyecto d"
+ARF-60,AR-P01,autorizacion,3,2025-11-24,documento,Informacion publica,", del gobierno de aragon, por el que se aprueba definitivamente de forma parcial el plan de interes general de aragon “ampl"
+ARB-18,AR-P01,autorizacion,3,2025-11-26,documento,Informacion publica,io provincial de zaragoza por la que se otorga autorizacion administrativa previa y de construccion parcial del proyecto lineas subter
+ARB-05,AR-P01,autorizacion,3,2026-03-10,documento,Informacion publica,"neral de energia y minas, por la que se otorga la autorizacion administrativa previa y autorizacion de construccion de la instalacion “ls"
+ARF-76,AR-P01,inicio,1,2026-04-09,documento,Informacion publica,por el que se declara como inversion de interes autonomico con interes general de aragon del “plan para la consolidaci
+AR-04,AR-P01,autorizacion,3,2026-05,fila,Autorizacion ambiental integrada / evaluacion ambiental (INAGA),estado: autorizado
+AR-02,AR-P01,autorizacion,3,2026-05-05,fila,PIGA - 3a aprobacion parcial definitiva,estado: aprobado parcialmente
+ARB-04,AR-P01,autorizacion,3,2026-05-07,documento,Informacion publica,"neral de energia y minas, por la que se otorga la autorizacion administrativa previa y autorizacion de construccion de la instalacion “ce"
+ARF-78,AR-P01,autorizacion,3,2026-05-07,documento,Informacion publica,"6 del gobierno de aragon, por el que se aprueba definitivamente de forma parcial el plan de interes general de aragon “ampl"
+ARB-03,AR-P01,autorizacion,3,2026-06-02,documento,Informacion publica,"competitividad y empleo, por la que se otorga la autorizacion administrativa previa y autorizacion de construccion de la instalacion ""ls"
+ARF-80,AR-P01,autorizacion,3,2026-06-24,documento,Informacion publica,", del gobierno de aragon, por el que se aprueba definitivamente de forma parcial el plan de interes general de aragon “ampl"
+ARF-15,AR-P01-5,inicio,1,2022-06-14,documento,Informacion publica,"por el que se declara como inversion de interes autonomico el proyecto empresarial promovido por best wonder business,"
+AR-06,AR-P02,autorizacion,3,2023,fila,Declaracion de obra directamente ejecutable dentro del PIGA,estado: aprobado
+ARF-35,AR-P02-2,inicio,1,2025-04-29,documento,Informacion publica,por el que se declara como inversion de interes autonomico el proyecto de “ampliacion para data center de eurocontaine
+ARF-17,AR-P03,inicio,1,2024-01-09,documento,Informacion publica,por el que se declara como inversion de interes autonomico con interes general el proyecto “nuevo campus de centros de
+ARF-18,AR-P03,inicio,1,2024-04-08,forzada,Informacion publica,Actas previas de ocupacion (La Muela) derivadas de la declaracion de interes autonomico; no autoriza la obra
+ARF-22,AR-P03,inicio,1,2024-07-22,documento,Informacion publica,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto “campus de centro
+ARF-30,AR-P03,inicio,1,2025-03-24,documento,Autorizacion ambiental integrada,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto “nuevo campus de
+ARF-36,AR-P03,inicio,1,2025-05-16,documento,Informacion publica,"ion del procedimiento administrativo de consultas previas, para la elaboracion del documento de alcance del estudio a"
+ARF-37,AR-P03,inicio,1,2025-05-28,documento,Informacion publica,mbito de la declaracion de inversion de interes autonomico y de interes general de aragon del proyecto de inversion de
+ARF-50,AR-P03,inicio,1,2025-09-24,forzada,Informacion publica,Utilidad publica y urgencia expropiatoria (Zaragoza) junto a la declaracion de interes autonomico; el PIGA solo tiene aprobacion inicial
+ARF-51,AR-P03,inicio,1,2025-09-24,forzada,Informacion publica,Urgencia expropiatoria (Villamayor de Gallego); el PIGA solo tiene aprobacion inicial
+AR-07,AR-P03,informacion_publica,2,2025-11-14,fila,PIGA - aprobacion inicial e informacion publica 30 dias habiles,piga - aprobacion inicial e informacion publica 30 dias habiles
+ARF-66,AR-P03,inicio,1,2026-01-13,forzada,Informacion publica,"Actas previas de ocupacion (Zaragoza); expropiacion del suelo, no autorizacion de la obra"
+ARF-67,AR-P03,inicio,1,2026-01-13,forzada,Informacion publica,"Actas previas de ocupacion (Villamayor de Gallego); expropiacion del suelo, no autorizacion de la obra"
+AR-08,AR-P03,inicio,1,2026-02,forzada,DIGA (nov-2025) + licencia municipal de acceso y limpieza de parcela,"Licencia municipal de acceso y limpieza de parcela, no de obras del centro de datos"
+ARF-77,AR-P03,inicio,1,2026-05-05,documento,Informacion publica,ivado de la declaracion de inversion de interes autonomico con interes general de aragon del proyecto de inversion den
+AR-09,AR-P03,informacion_publica,2,2026-07-30,fila,Evaluacion de impacto ambiental - informacion publica (23 dias),evaluacion de impacto ambiental - informacion publica (23 dias)
+ARF-85,AR-P03,informacion_publica,2,2026-07-30,documento,Informacion publica,"2025, de 14 de noviembre, por la que se aprobo inicialmente el plan de interes general “implantacion de la region micro"
+ARF-61,AR-P03-2,inicio,1,2025-12-02,documento,Informacion publica,"por el que se declara como inversion de interes autonomico, asi como proyecto prioritario con generacion renovable aso"
+ARF-92,AR-P03-2,inicio,1,2025-12-02,documento,Informacion publica,"por el que se declara como inversion de interes autonomico, asi como proyecto prioritario con generacion renovable aso"
+ARB-06,AR-P03-6,autorizacion,3,2026-03-10,documento,Informacion publica,"neral de energia y minas, por la que se otorga la autorizacion administrativa previa y autorizacion de construccion de la instalacion “ls"
+ARF-25,AR-P04,inicio,1,2024-10-16,documento,Autorizacion ambiental integrada,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto “rhodes” de const
+ARF-43,AR-P04,informacion_publica,2,2025-08-11,etiqueta del lector,Informacion publica,informacion publica
+ARF-46,AR-P04,informacion_publica,2,2025-08-25,documento,Informacion publica,"39/2025, de 19 de agosto, por la que se aprueba inicialmente el plan de interes general de aragon ""proyecto rhodes"" prom"
+ARF-48,AR-P04,informacion_publica,2,2025-08-25,documento,Informacion publica,"ca y logistica, por el que se someten a informacion y participacion publica los documentos del plan de interes general de aragon “proye"
+ARF-65,AR-P04,informacion_publica,2,2025-12-31,documento,Informacion publica,"rden fom/1039/2025, de 19 de agosto, se aprueba inicialmente el plan de interes general de aragon “proyecto rhodes” prom"
+AR-10,AR-P04,autorizacion,3,2026-07-23,fila,Evaluacion ambiental simplificada: INAGA resuelve no someter a evaluacion ordinaria,valuacion ambiental simplificada: inaga resuelve no someter a evaluacion ordinaria
+ARF-86,AR-P04,autorizacion,3,2026-08-05,documento,Informe ambiental,"nes de gestion ambiental, por la que se decide no someter al procedimiento de evaluacion ambiental estrategica ordina"
+ARF-90,AR-P04,autorizacion,3,2026-08-18,documento,Informacion publica,"omovido por calanza inmuebles, sl, y se declara la utilidad publica y la necesidad de urgente ocupacion de los bienes y derecho"
+ARB-15,AR-P04,autorizacion,3,2026-09-07,documento,Informacion publica,"tion ambiental, por la que se adopta la decision de no someter al procedimiento de evaluacion de impacto ambiental ordinar"
+ARF-04,AR-P04-2,autorizacion,3,2020-04-01,documento,Informacion publica,"tion ambiental, por la que se adopta la decision de no someter al procedimiento de evaluacion de impacto ambiental ordinar"
+ARF-05,AR-P04-2,autorizacion,3,2020-04-01,documento,Informacion publica,"tion ambiental, por la que se adopta la decision de no someter al procedimiento de evaluacion de impacto ambiental el proy"
+AR-11,AR-P05,inicio,1,2026-07-22,fila,Declaracion de Inversion de Interes Autonomico (DIGA),declaracion de inversion de interes autonomico (diga)
+ARF-89,AR-P05,inicio,1,2026-08-14,documento,Informacion publica,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto “campus de centro
+ARF-16,AR-P05-2,informacion_publica,2,2023-03-15,documento,Informacion publica,"por la que se somete a los tramites de informacion publica, audiencia de interesados e informe de las administraciones"
+ARF-34,AR-P05-3,inicio,1,2025-04-03,documento,Informacion publica,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto de campus de cent
+ARF-75,AR-P05-3,informacion_publica,2,2026-03-20,documento,Informacion publica,"ial, por la que se inicia el tramite de informacion publica de la concreta relacion de bienes y derechos declarados de"
+ARF-52,AR-P06,inicio,1,2025-10-01,documento,Autorizacion ambiental integrada,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto “centro de datos
+AR-12,AR-P06,informacion_publica,2,2026-03,fila,Evaluacion de impacto ambiental - informacion publica,evaluacion de impacto ambiental - informacion publica
+ARF-73,AR-P06,inicio,1,2026-03-17,documento,Informacion publica,"ion del procedimiento administrativo de consultas previas, para la elaboracion del documento de alcance del estudio a"
+ARF-49,AR-P07,autorizacion,3,2025-09-15,documento,Informacion publica,señalan fechas para el levantamiento de actas previas con efectos de ocupacion de las fincas afectadas por el pro
+AR-13,AR-P07,autorizacion,3,2025-12,fila,Plan de Interes General de Aragon - proyecto definitivo,estado: aprobado
+ARF-62,AR-P07,inicio,1,2025-12-26,documento,Informacion publica,"por el que se declara como inversion de interes autonomico con interes general de aragon, asi como proyecto prioritari"
+ARF-63,AR-P07,informacion_publica,2,2025-12-30,documento,Informacion publica,"2025, de 23 de diciembre, por la que se aprueba inicialmente el plan de interes general de aragon ""green it aragon"" en l"
+ARF-64,AR-P07,informacion_publica,2,2025-12-30,documento,Informacion publica,"biental (inaga), por la que se somete a informacion y participacion publica el plan de interes general de aragon ""green it aragon"" en l"
+ARF-12,AR-P07-2,informacion_publica,2,2021-04-08,documento,Informacion publica,"ierno de aragon, por el que se somete a informacion publica la relacion de los bienes y derechos afectados por las obra"
+ARF-19,AR-P07-2,autorizacion,3,2024-05-17,documento,Informacion publica,"fom/480/2024, de 10 de mayo, por la que se aprueba la modificacion numero 1, de caracter no sustancial, del plan de interes ge"
+AR-14,AR-P08,inicio,1,2025-03,fila,DIGA + PIGA en tramitacion,diga
+ARF-69,AR-P08,inicio,1,2026-02-17,documento,Informacion publica,"ion del procedimiento administrativo de consultas previas, para la elaboracion del documento de alcance del estudio a"
+ARF-81,AR-P08,informacion_publica,2,2026-07-07,documento,Informacion publica,"988/2025, de 24 de junio, por la que se aprueba inicialmente el plan de interes general de aragon ""tillion aragon"" promo"
+ARF-82,AR-P08,autorizacion,3,2026-07-07,documento,Informacion publica,eñala la fecha para el levantamiento de actas previas con efectos de ocupacion de las fincas afectadas por el pro
+ARF-83,AR-P08,informacion_publica,2,2026-07-07,documento,Informacion publica,"biental (inaga), por la que se somete a informacion y participacion publica el plan de interes general de aragon proyecto ""tillion arag"
+AR-15,AR-P09,inicio,1,2025-07-02,fila,DIGA (Consejo de Gobierno) + PIGA en tramitacion,diga (consejo de gobierno)
+ARF-42,AR-P09,inicio,1,2025-07-23,documento,Informacion publica,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto de instalacion de
+ARF-45,AR-P09,autorizacion,3,2025-08-21,documento,Informacion publica,"o de aragon, por el que se determina la relacion individualizada de bienes y derechos afectados por el proyecto declarado como inversi"
+ARF-53,AR-P09,inicio,1,2025-10-03,documento,Informacion publica,ados por la declaracion de inversion de interes autonomico y de interes general de aragon del proyecto de instalacion
+ARB-01,AR-P09,informacion_publica,2,2025-12-09,documento,Informacion publica,"/2025, de 1 de diciembre, por la que se aprueba inicialmente el plan de interes general de aragon ""instalacion de un cen"
+ARB-02,AR-P09,informacion_publica,2,2025-12-09,documento,Informacion publica,"omia y justicia, por la que se somete a informacion y participacion publica el plan de interes general de aragon ""instalacion de un cen"
+ARF-91,AR-P09,,,2025-12-09,forzada,Informacion publica,"Bases reguladoras de subvenciones (FTJ), no un tramite del proyecto"
+ARF-84,AR-P09,autorizacion,3,2026-07-10,documento,Informacion publica,eñala la fecha para el levantamiento de actas previas con efectos de ocupacion de las fincas afectadas por el pro
+AR-18,AR-P09,informacion_publica,2,2026-07-22,documento,Informacion publica de DIA + autorizacion administrativa previa y de construccion (Subdelegacion del Gobierno en Zaragoza),"rno en zaragoza, por el que se somete a informacion publica la solicitud de declaracion de impacto ambiental, de autori"
+BOE-01,AR-P09,informacion_publica,2,2026-07-22,documento,Informacion publica,"rno en zaragoza, por el que se somete a informacion publica la solicitud de declaracion de impacto ambiental, de autori"
+ARB-17,AR-P09,informacion_publica,2,2026-07-29,documento,Informacion publica,"rno en zaragoza, por el que se somete a informacion publica la solicitud de declaracion de impacto ambiental, de autori"
+ARF-87,AR-P09,informacion_publica,2,2026-08-13,documento,Informacion publica,"/2025, de 1 de diciembre, por la que se aprobo inicialmente el plan de interes general ""instalacion de un centro de dat"
+ARF-88,AR-P09,informacion_publica,2,2026-08-13,documento,Informacion publica,"del territorio, por el que se someten a informacion y participacion publica nuevos proyectos electricos y su documentacion ambiental de"
+ARF-74,AR-P09-3,inicio,1,2026-03-20,documento,Informacion publica,"por el que se declara como inversion de interes autonomico, con interes general de aragon, el proyecto de desarrollo d"
+AR-17,AR-P10,anuncio,0,2024-10,fila,No localizado,no localizado
+ARF-26,AR-P10,inicio,1,2024-11-29,documento,Informacion publica,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto «campus de centro
+AR-16,AR-P10,inicio,1,2026-01-28,fila,Declaracion de Inversion de Interes Autonomico,declaracion de inversion de interes autonomico
+ARF-68,AR-P10,inicio,1,2026-02-06,documento,Autorizacion ambiental integrada,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto “campus de centro
+ARF-79,AR-P10,inicio,1,2026-05-12,documento,Informacion publica,mbito de la declaracion de inversion de interes autonomico y de interes general de aragon del proyecto de inversion de
+ARF-41,AR-P10-2,informacion_publica,2,2025-07-02,documento,Informacion publica,"725/2025, de 23 de junio, por el que se aprueba inicialmente el plan de interes general de aragon centro logistico agroa"
+ARB-41,AR-P10-3,informacion_publica,2,2025-12-17,etiqueta del lector,Informacion publica,informacion publica
+ARF-44,AR-P11-2,inicio,1,2025-08-20,documento,Aprobacion,por el que se declara como inversion de interes autonomico con interes general de aragon el proyecto “parque tecnologi
+ARB-43,AR-P11-3,informacion_publica,2,2023-07-31,etiqueta del lector,Informacion publica,informacion publica
+AR-22,AR-P12,informacion_publica,2,2026-02-05,documento,Informacion publica,"oza, por el que se somete al tramite de informacion publica la solicitud de autorizacion administrativa previa y de con"
+AR-23,AR-P12,informacion_publica,2,2026-02-05,documento,Informacion publica,"oza, por el que se somete al tramite de informacion publica la solicitud de autorizacion administrativa previa y de con"
+AR-24,AR-P12,informacion_publica,2,2026-02-05,documento,Informacion publica,"oza, por el que se somete al tramite de informacion publica la solicitud de autorizacion administrativa previa y de con"
+AR-25,AR-P12,informacion_publica,2,2026-02-11,documento,Informacion publica,"oza, por el que se somete al tramite de informacion publica la solicitud de autorizacion administrativa previa y de con"
+ARF-70,AR-P15,informacion_publica,2,2026-02-25,documento,Informacion publica,"ial de zaragoza, por el que se somete a informacion publica la autorizacion administrativa previa y de construccion de"
+ARF-71,AR-P15,informacion_publica,2,2026-02-25,documento,Informacion publica,"ial de zaragoza, por el que se somete a informacion publica la autorizacion administrativa previa y de construccion del"
+ARF-72,AR-P15,informacion_publica,2,2026-02-25,documento,Informacion publica,"ial de zaragoza, por el que se somete a informacion publica, la autorizacion administrativa previa y de construccion, d"
+ARB-25,AR-P20,informacion_publica,2,2026-06-04,documento,Informacion publica,nto de la puebla de hijar por la que se aprueba inicialmente expediente de autorizacion especial de construcciones en su
+ARB-24,AR-P20,informacion_publica,2,2026-07-16,documento,Informacion publica,"bierno de aragon, se abre un periodo de informacion publica por un periodo de veinte dias habiles a contar desde el dia"
+ARB-16,AR-P20,informacion_publica,2,2026-09-21,documento,Informacion publica,"bierno de aragon, se abre un periodo de informacion publica por un plazo de veinte dias habiles a contar desde el dia s"
+AS-01,AS-P01,anuncio,0,2026-08-03,fila,"Presentacion publica del proyecto con participacion del presidente del Principado; el promotor aspira a obtener la declaracion de Proyecto de Interes Estrategico Regional (PIER) al amparo de la Ley del Principado de Asturias 7/2024, de 20 de diciembre (BOPA num. 250 de 27-12-2024, Cod. 2024-11353)",presentacion publica del proyecto con participacion del presidente del principad
+AS-02,AS-P02,informacion_publica,2,2026-04-06,fila,"Aprobacion inicial por acuerdo de la Junta de Gobierno Local en sesion de 17-03-2026 e informacion publica de un mes (art. 89 TROTUA), con suspension del otorgamiento de licencias de parcelacion, edificacion y demolicion en todo el ambito por un maximo de dos anos",aprobacion inicial por acuerdo de la junta de gobierno local en sesion de 17-0
+AS-03,AS-P02,inicio,1,2026-06-30,fila,"Anuncio publico a personas interesadas desconocidas en el procedimiento de evaluacion ambiental estrategica simplificada (arts. 9.3, 9.4 y 30 de la Ley 21/2013, de 9 de diciembre); plazo de consultas de 20 dias habiles",plazo de consultas de 20 dias habiles
+CLF-01,CA-P01,informacion_publica,2,2026-06-04,documento,Informacion publica,amiento de aguilar de campoo (palencia) informacion publica relativa a la solicitud de autorizacion de uso excepcional
+CLF-02,CA-P02,informacion_publica,2,2026-08-05,etiqueta del lector,Informacion publica,informacion publica
+CL-01,CA-P02,inicio,1,2026-09-16,documento,Informacion publica,"a ordenacion del territorio, por la que se inicia el procedimiento de aprobacion del proyecto regional para la implantacion de"
+CLF-03,CA-P03,informacion_publica,2,2026-07-22,etiqueta del lector,Informacion publica,informacion publica
+CB-02,CB-P01,inicio,1,2025-07-04,fila,"Enajenacion de suelo publico: la Junta General de Socios de VIPAR (SEPIDES 85 %, SICAN 15 %) aprobo la comercializacion el 25-11-2024 con precio minimo de 7,8 M EUR; venta autorizada por SEPIDES y SICAN en mayo-2025 y formalizada el 04-07-2025","enajenacion de suelo publico: la junta general de socios de vipar (sepides 85 %,"
+CB-01,CB-P01,inicio,1,2025-07-11,fila,"Declaracion como Proyecto Empresarial Estrategico de Cantabria (Ley de Cantabria 2/2025, de Simplificacion Administrativa, arts. 19 a 22): Acuerdo de Consejo de Gobierno de 19-06-2025 publicado por Resolucion de la Secretaria General de la Consejeria de Industria de 09-07-2025; solicitud presentada el 22-05-2025",declaracion como proyecto empresarial estrategico de cantabria (ley de cantabria 2
+CB-03,CB-P03,inicio,1,2023-03-30,fila,"Documento de alcance del estudio ambiental estrategico del PSIR (Ley 21/2013, arts. 19 y 20), formulado por la Direccion General de Urbanismo y Ordenacion del Territorio por Resolucion de 25-01-2023",documento de alcance del estudio ambiental estrategico del psir (ley 21
+CB-04,CB-P04,informacion_publica,2,2023-02-01,fila,"Informacion publica de solicitud de licencia de actividad (Ley de Cantabria 17/2006 de Control Ambiental Integrado, art. 32.4.b; Decreto 19/2010, art. 74), 20 dias",informacion publica de solicitud de licencia de actividad (ley de cantabria 17
+CBF-01,CB-P04,informacion_publica,2,2023-02-01,documento,Informacion publica,ayuntamiento de santander cve-2023-419 informacion publica de solicitud de licencia de una actividad de centro de proc
+CB-05,CB-P05,autorizacion,3,2023-05-12,fila,"Informacion publica de solicitud de autorizacion administrativa previa y de construccion (Ley 24/2013 art. 53; Decreto de Cantabria 6/2003 art. 10; RD 1955/2000 art. 125), 20 dias, BOC de 12-05-2023 (CVE-2023-4109), y Resolucion de la Direccion General de Industria, Energia y Minas de 07-08-2023 de autorizacion administrativa previa y de construccion, BOC de 18-08-2023 (CVE-2023-7260)","s, boc de 12-05-2023 (cve-2023-4109), y resolucion de la direccion general de industria, energia y minas de 07-08-2023 de autorizacion administrativa previa y de construccion, boc de 18-08-2023 (cve-2023-7260)"
+CB-06,CB-P06,inicio,1,2026-05-07,fila,"Venta de parcela de 5.907,72 m2 por la Sociedad Gestora del PCTCAN (Consejeria de Industria, Empleo, Innovacion y Comercio), formalizada; fecha exacta de formalizacion no publicada","venta de parcela de 5.907,72 m2 por la sociedad gestora del pctcan (consejer"
+CB-07,CB-P07,anuncio,0,2023-11-21,fila,Presentacion publica del proyecto por la Presidenta de Cantabria con participacion financiera de Sodercan; NO existe expediente administrativo localizado (obra interior en edificio existente). El tipo_expediente 'Interes autonomico' no responde a ninguna declaracion formal,presentacion publica del proyecto por la presidenta de cantabria con participaci
+CE-01,CE-P02,informacion_publica,2,2022-11-11,etiqueta del lector,Informacion publica,informacion publica
+CE-02,CE-P02,informacion_publica,2,2023-05-16,etiqueta del lector,Informacion publica,informacion publica
+CE-03,CE-P02,autorizacion,3,2024-03-15,documento,Aprobacion,contra la violencia de genero. oastce.-aprobacion definitiva de la modificacion de los articulos 30 y 33 de la ordenanza
+CE-04,CE-P02,informacion_publica,2,2024-07-19,etiqueta del lector,Informacion publica,informacion publica
+CLM-01,CM-P01,informacion_publica,2,2022-03-11,documento,Anuncio de informacion publica (1 mes) de la documentacion de la solicitud de DIR presentada el 04-03-2022,"ficacion territorial y urbanismo, sobre informacion publica de la documentacion comprensiva de la solicitud de declarac"
+CLM-02,CM-P01,inicio,1,2022-06-20,documento,Acuerdo del Consejo de Gobierno de 07/06/2022 por el que se declara de interes regional el proyecto y se habilita su tramitacion como Proyecto de Singular Interes (plazo de 12 meses para presentar el PSI),"o de gobierno, por el que se declara de interes regional el proyecto meta data center campus en el termino municipal"
+CLM-03,CM-P01,informacion_publica,2,2023-03-31,documento,"Aprobacion inicial e informacion publica de 30 dias habiles, incluso a efectos ambientales y de la solicitud de autorizacion ambiental integrada","la consejeria de fomento, por la que se aprueba inicialmente y se somete a informacion publica incluso a los efectos amb"
+CLM-04,CM-P01,autorizacion,3,2023-12-04,documento,Informe ambiental estrategico (evaluacion ambiental estrategica simplificada) de la DG de Calidad Ambiental,"ral de calidad ambiental, por la que se emite el informe ambiental estrategico de la modificacion de la ordenacion urbanistica para la im"
+CLM-05,CM-P01,autorizacion,3,2024-03-22,documento,Declaracion de impacto ambiental (evaluacion ordinaria) formulada por la DG de Calidad Ambiental,"eneral de calidad ambiental, por la que se formula la declaracion de impacto ambiental del proyecto: proyecto de singular interes meta data center"
+CLM-06,CM-P01,informacion_publica,2,2024-06-10,documento,"Segunda informacion publica: relacion de bienes y derechos afectados por el PSI, audiencia y exposicion publica de la desafectacion y modificacion de trazado de vias pecuarias","eria de fomento, por la que se somete a informacion publica la relacion de bienes y derechos afectados por el proyecto"
+CLM-07,CM-P01,autorizacion,3,2024-10-22,documento,Acuerdo del Consejo de Gobierno de 14/10/2024 de aprobacion definitiva del PSI,"del consejo de gobierno, por el que se aprueba definitivamente el proyecto de singular interes meta data center campus. [2"
+CM-01,CM-P01,autorizacion,3,2024-10-22,fila,"Declaracion de Interes Regional, PSI: aprobacion definitiva; reparcelacion",estado: aprobado definitivamente
+CLM-08,CM-P01,autorizacion,3,2024-12-11,fila,Resolucion de 23/10/2024 de la DG de Planificacion Territorial y Urbanismo por la que se publican las determinaciones urbanisticas (Normas Urbanisticas) del PSI,n territorial y urbanismo por la que se publican las determinaciones urbanisticas (normas urbanisticas) del psi
+CLM-09,CM-P01,autorizacion,3,2025-11-24,fila,Inicio del procedimiento de aprobacion e informacion publica del proyecto de reparcelacion (reparcelacion forzosa formulada por la Administracion),estado: aprobado definitivamente el 07-08-2026
+CLM-10,CM-P01,informacion_publica,2,2025-12-23,documento,"Informacion publica (1 mes) del expediente expropiatorio por tasacion conjunta; 29 parcelas afectadas por el proyecto de suministro electrico y 3 por el acceso a la TO-1287, todas en Talavera de la Reina","retaria general, por la que se somete a informacion publica en materia de expropiacion forzosa el proyecto de singular"
+CLM-11,CM-P01,autorizacion,3,2026-08-21,documento,"Aprobacion definitiva del proyecto de reparcelacion; requerimiento de garantia por la monetizacion del 49 % del aprovechamiento urbanistico: 1.089.554,00 EUR (6.700 unidades de aprovechamiento) en 10 dias","la consejeria de fomento, por la que se aprueba definitivamente el proyecto de reparcelacion derivado del proyecto de singu"
+CLM-12,CM-P02,autorizacion,3,2026-04-27,fila,"Autorizacion administrativa previa, autorizacion administrativa de construccion y declaracion de utilidad publica (DG de Politica Energetica y Minas); informacion publica previa en BOE num. 163 de 08-07-2025",estado: autorizada
+CLM-14,CM-P03,inicio,1,2025-09-22,documento,Solicitud de inicio (fecha de recepcion en la Consejeria 22-09-2025); sin documentos publicados,ada situacin actual fase de tramitacin: solicitud de inicio. estado de tramitacin: solicitud de inicio. municipios afec
+CM-02,CM-P03,anuncio,0,2026,fila,Presentacion publica; suelo adquirido y potencia concedida,presentacion publica
+CLM-15,CM-P03,anuncio,0,2026-02-25,fila,Presentacion publica del proyecto en el Ayuntamiento de Guadalajara,presentacion publica del proyecto en el ayuntamiento de guadalajara
+CLM-13,CM-P03,informacion_publica,2,2026-04-28,fila,Informacion publica (30 dias) de la solicitud de autorizacion ambiental integrada (AAI-GU-112) y del estudio de impacto ambiental (S478/2026/DG/00114),informacion publica (30 dias) de la solicitud de autorizacion ambiental integra
+CLM-16,CM-P05,inicio,1,2026-07-13,documento,Evaluacion de impacto ambiental ordinaria y autorizacion ambiental integrada; fase 'Solicitadas consultas a otros organismos' (consultas de 13-07-2026); resumen no tecnico de junio de 2026,sa situacin actual fase de tramitacin: solicitadas consultas a otros organismos. estado de tramitacin: solicitadas consu
+CLM-17,CM-P06,inicio,1,2026-07-15,documento,Evaluacion de impacto ambiental ordinaria: documento inicial para la determinacion del alcance del EsIA (fechado 16-04-2026); fase 'Solicitadas consultas a otros organismos' (consultas de 15-07-2026),c estate malpica s.l. fecha: 16-04-2026 documento inicial del proyecto para la determinacion del estudio de impacto a
+CLM-18,CM-P07,inicio,1,2026-06-15,documento,Evaluacion de impacto ambiental ordinaria: documento inicial para la determinacion del alcance del EsIA (fechado 18-12-2025); fase 'Solicitadas consultas a otros organismos' (consultas de 15-06-2026),dc estate vianos s.l. fecha: 18-12-2025 documento inicial del proyecto para la determinacion del estudio de impacto a
+CLM-20,CM-P08,anuncio,0,2022-11-03,fila,"Nota del Ayuntamiento de Torija sobre la presentacion del proyecto (250 empleos directos, 2.650 en construccion); se anuncia la solicitud de Declaracion de Interes Regional para 2023",estado: anunciado
+CLM-19,CM-P08,informacion_publica,2,2025-03-17,documento,Informacion publica (30 dias) del proyecto y del estudio de impacto ambiental por el Ayuntamiento de Torija como organo sustantivo (Decreto de Alcaldia 2025-0198 de 07-03-2025); EIA ordinaria (art. 40 Ley 2/2020),"tamiento de torija (guadalajara), sobre informacion publica del proyecto de centro de datos denominado axis east junto"
+CLM-21,CM-P09,anuncio,0,2023-02-03,fila,Mencion en nota de prensa del Gobierno de Castilla-La Mancha (informe Colliers) como proyecto en promocion; sin expediente localizado,mencion en nota de prensa del gobierno de castilla-la mancha (informe colliers) como
+CLM-22,CM-P10,operativo,5,2022-06-29,documento,Inauguracion del CPD con la alcaldesa y el consejero de Hacienda y Administraciones Publicas,a empresa tecnologica del grupo aire se inaugura en talavera creando 300 puestos de trabajo - ayuntamiento d
+CLM-23,CM-P11,operativo,5,2025-01-29,documento,Inauguracion con el presidente de Castilla-La Mancha; sin expediente localizado en DOCM ni Nevia,fortinet inaugura en torija su primer centro de datos en españa tras invertir
+CLM-24,CM-P12,anuncio,0,2026-08-19,fila,"Proyecto anunciado; la planta FV asociada 'Aceca' (347,51 MW nominales, 531 ha en Toledo, Mocejon y Almonacid) recibio DIA desfavorable del MITECO y se busca reubicar",proyecto anunciado
+VCF-01,CO-P01,informacion_publica,2,2026-06-26,documento,Informacion publica,peracion anuncio por el que se somete a informacion publica la posible declaracion como proyecto de interes autonomico
+CTF-01,CT-P01,,,,forzada,Informacion publica,"Marco estrategico de la Generalitat, no un expediente de proyecto"
+CT-01,CT-P01-2,autorizacion,3,2019-03-08,documento,Informacion publica,ents ajuntament de lloret de mar edicte sobre aprovacio de la memoria tecnica per a l'adequacio d'un equipament mun
+CTB-04,CT-P01-3,informacion_publica,2,2025-08-05,etiqueta del lector,Informacion publica,informacion publica
+CTB-10,CT-P01-4,autorizacion,3,2026-09-29,documento,Informacion publica,"ret 336/1988, de 17 d'octubre, pel qual s'aprova el reglament del patrimoni dels ens locals, l'acord i el do"
+CTB-05,CT-P02-2,informacion_publica,2,2025-10-01,etiqueta del lector,Informacion publica,informacion publica
+CTB-06,CT-P03,informacion_publica,2,2026-07-16,documento,Informacion publica,"sol.licitud i documentacio aportada, a informacio publica per un periode de trenta dies, perque qui es consideri inte"
+CTB-07,CT-P04,informacion_publica,2,2023-12-19,etiqueta del lector,Informacion publica,informacion publica
+CTB-08,CT-P05,informacion_publica,2,2026-03-13,documento,Informacion publica,ament@molinsderei.cat anunci.- tramit d'informacio publica de llicencies ambientals assumpte: sol.licitud/s de llicenc
+CTF-02,CT-P06,informacion_publica,2,,documento,Informacion publica,abitatge i transicio ecologica anunci d'informacio publica sobre la sol.licitud d'autoritzacio ambiental amb declaraci
+CTB-09,CT-P06,informacion_publica,2,2021-11-29,documento,Informacion publica,"sol.licitud i documentacio aportada, a informacio publica per un periode de trenta dies, perque qui es consideri inte"
+EXF-01,EX-P01,inicio,1,2024-09-02,documento,Informacion publica,"de 27 de agosto, por el que se declara proyecto empresarial de interes autonomico al proyecto presentado por la empresa cc green and sustaina"
+EXF-02,EX-P01,autorizacion,3,2024-10-18,documento,Informe ambiental,"eneral de sostenibilidad, por la que se formula informe ambiental estrategico en la forma prevista en la ley 16/2015, de 23 de abril, de"
+EXF-03,EX-P04,inicio,1,2026-05-18,documento,Informacion publica,"6, de 12 de mayo, por el que se declara proyecto empresarial de interes autonomico al proyecto presentado por la empresa merlin edged, sl, par"
+EXF-04,EX-P04,informacion_publica,2,2026-05-22,etiqueta del lector,Informacion publica,informacion publica
+EX-01,EX-P05,informacion_publica,2,,documento,Informacion publica,e marzo de 2026 por el que se someten a informacion publica la peticion de autorizacion administrativa previa y reconoc
+EXF-05,EX-P05,informacion_publica,2,2026-05-25,etiqueta del lector,Informacion publica,informacion publica
+EXF-06,EX-P05,informacion_publica,2,2026-06-11,etiqueta del lector,Informacion publica,informacion publica
+GAF-01,GA-P01,informacion_publica,2,2025-01-23,documento,Informacion publica,"ollo energetico, por el que se somete a informacion publica el proyecto de un centro de procesamiento de datos y sus in"
+GAF-03,GA-P01,autorizacion,3,2026-02-16,documento,Informacion publica,"cia, de 26 de enero de 2026, por el que se aprueba, al amparo de lo establecido en el decreto legislativo 1/2015, de 12 d"
+CP-05,GA-P01-2,autorizacion,3,2024-11-22,documento,Licitacion,the notice on ted website 713758-2024 - licitacion españa – trabajos generales de construccion de inmuebles y
+CP-06,GA-P01-2,autorizacion,3,2024-12-10,documento,Licitacion,the notice on ted website 755078-2024 - licitacion españa – trabajos generales de construccion de inmuebles y
+GAF-02,GA-P01-2,informacion_publica,2,2025-08-08,documento,Informacion publica,"ion profesional, por el que se somete a informacion publica, para su declaracion como proyecto estrategico de investiga"
+IBF-01,IB-P01,autorizacion,3,2020-07-16,documento,Informe ambiental,ent de les illes balears per la qual es formula l' informe ambiental estrategic sobre la modificacio puntual num. 5 del pla especial desenv
+IBF-02,IB-P02,autorizacion,3,2021-11-16,documento,Informe ambiental,l de govern de 15 de novembre de 2021 d'aprovacio definitiva de la modificacio puntual numero 5 del pla especial de dese
+IBF-03,IB-P03,autorizacion,3,2026-05-05,documento,Informacion publica,nsell de govern de 30 d'abril de 2026 d'aprovacio definitiva de la modificacio puntual numero 6 del pla especial de dese
+MA-01,MA-P01,autorizacion,3,2025-05-16,fila,Autorizacion administrativa y aprobacion del proyecto de ejecucion,estado: autorizado
+MA-02,MA-P01,informacion_publica,2,2025-06-17,fila,Informacion publica,informacion publica
+MDF-02,MA-P01-2,autorizacion,3,2025-04-25,documento,Informacion publica,"ltura e interior, por la que se acuerda hacer publico el informe de impacto ambiental del proyecto “centro de seccionamiento de compañia y lsat 2"
+MDF-01,MA-P01-3,informacion_publica,2,2023-12-13,etiqueta del lector,Informacion publica,informacion publica
+MA-04,MA-P02,informacion_publica,2,2023,fila,Aprobacion inicial,aprobacion inicial
+MA-03,MA-P02,informacion_publica,2,2025-01-16,fila,Informacion publica,informacion publica
+MA-31,MA-P02,autorizacion,3,2025-03-11,documento,Informacion publica,"nsicion energetica y economia circular, sobre autorizacion administrativa y aprobacion del proyecto de ejecucion para la instalacion"
+MDB-03,MA-P02-3,autorizacion,3,2023-02-27,documento,Informacion publica,"da y agricultura, por la que se acuerda hacer publico el informe de impacto ambiental del proyecto de “ampliacion del almacenamiento de combustib"
+MDB-19,MA-P02-5,inicio,1,2026-04-29,documento,Informacion publica,". l. examinado el expediente 0262/26 de ocupacion temporal de las vias pecuarias cordel de la marmota, colada de las huelgas del arroyo teja"
+MA-05,MA-P03,autorizacion,3,2020-05-26,forzada,Cambio de titularidad de la AAI,"Cambio de titularidad de la AAI-1.011, otorgada antes: el centro ya estaba autorizado"
+MDF-04,MA-P03-2,informacion_publica,2,2026-04-27,documento,Informacion publica,"tura e interior, por la que se somete a informacion publica la documentacion de la solicitud inicial de la autorizacion"
+MDB-17,MA-P03-4,inicio,1,2024-11-22,documento,Informacion publica,". l. examinado el expediente 1209/23 de ocupacion temporal de las vias pecuarias colada del arroyo juncal, colada del camino de torrejon a a"
+MA-06,MA-P04,autorizacion,3,2026-05-07,fila,Informacion publica y autorizacion,estado: autorizada
+MA-07,MA-P04,autorizacion,3,2026-05-07,fila,"Autorizacion, aprobacion de proyecto y declaracion de utilidad publica","autorizacion, aprobacion de proyecto y declaracion de utilidad publica"
+MA-08,MA-P05,informacion_publica,2,2025-06-04,fila,Informacion publica,informacion publica
+MA-12,MA-P05,inicio,1,2026,fila,Ocupacion temporal de vias pecuarias,ocupacion temporal de vias pecuarias
+MA-11,MA-P05,autorizacion,3,2026-03-05,fila,Resolucion de ocupacion temporal de via pecuaria,resolucion de ocupacion temporal de via pecuaria
+MDB-11,MA-P05-2,informacion_publica,2,2021-08-10,documento,Informacion publica,"idad de madrid, se somete al tramite de informacion publica, durante un periodo de veinte dias, la solicitud instada po"
+MDB-02,MA-P05-2,autorizacion,3,2022-06-06,documento,Informacion publica,"da y agricultura, por la que se acuerda hacer publico el informe de impacto ambiental del proyecto de centro de datos en el camino de torrecilla"
+MDB-13,MA-P05-2,informacion_publica,2,2022-08-01,documento,Informacion publica,"cion energetica, por la que se somete a informacion publica la peticion de autorizacion administrativa y aprobacion del"
+MDB-12,MA-P05-2,autorizacion,3,2022-11-21,documento,Informacion publica,"scarbonizacion y transicion energetica, sobre autorizacion administrativa, aprobacion del proyecto para la construccion de una subest"
+MDB-06,MA-P05-2,autorizacion,3,2023-03-16,documento,Informacion publica,"da y agricultura, por la que se acuerda hacer publico el informe de impacto ambiental del proyecto de “centro de datos en avenida fuente nueva, n"
+MDB-07,MA-P05-2,autorizacion,3,2023-07-11,documento,Informacion publica,"da y agricultura, por la que se acuerda hacer publico el informe de impacto ambiental del proyecto de “centro de datos en calle hercules, numero"
+MDB-08,MA-P05-2,informacion_publica,2,2024-06-26,documento,Informacion publica,"onomia circular, por la que se somete a informacion publica la peticion de autorizacion administrativa y aprobacion del"
+MDB-09,MA-P05-2,informacion_publica,2,2025-04-08,documento,Informacion publica,"onomia circular, por la que se somete a informacion publica la peticion de autorizacion administrativa y aprobacion del"
+MDB-10,MA-P05-2,informacion_publica,2,2025-07-18,documento,Informacion publica,"onomia circular, por la que se somete a informacion publica la peticion de autorizacion administrativa y aprobacion del"
+MA-19,MA-P06,autorizacion,3,2025-06-27,fila,Autorizacion,estado: autorizada
+MA-09,MA-P06,informacion_publica,2,2025-08-30,fila,Informacion publica,informacion publica
+MA-10,MA-P06,autorizacion,3,2025-12-23,fila,Autorizacion,estado: autorizada
+MA-15,MA-P06,informacion_publica,2,2025-12-24,fila,Informacion publica,informacion publica
+MA-13,MA-P07,informacion_publica,2,2026-01-12,fila,Resolucion e informacion publica de un mes,resolucion e informacion publica de un mes
+MA-17,MA-P08,inicio,1,2023,fila,Ocupacion temporal de vias pecuarias,ocupacion temporal de vias pecuarias
+MA-16,MA-P08,informacion_publica,2,2025-06-17,fila,Informacion publica de licencia de instalacion y actividad (Ayuntamiento),informacion publica de licencia de instalacion y actividad (ayuntamiento)
+MA-14,MA-P08,informacion_publica,2,2025-11-27,fila,Informacion publica,informacion publica
+MDB-16,MA-P08,inicio,1,2026-03-31,documento,Informacion publica,". u. examinado el expediente 1053/23 de ocupacion temporal de las vias pecuarias colada del camino del espinar, colada del paeque, colada de"
+MDB-05,MA-P08,autorizacion,3,2026-07-31,documento,Informacion publica,ultura e interior por la que se acuerda hacer publico el informe de impacto ambiental del proyecto de «linea subterranea de 66 kv desde la st alg
+MA-21,MA-P10,inicio,1,2022,fila,Ocupacion de vias pecuarias,ocupacion de vias pecuarias
+MDB-04,MA-P10,autorizacion,3,2023-03-30,documento,Informacion publica,"da y agricultura, por la que se acuerda hacer publico el informe de impacto ambiental del “proyecto de ampliacion del centro de datos situado en"
+MDB-18,MA-P10,inicio,1,2024-04-30,documento,Informacion publica,"u. examinado el expediente 0051/24, de ocupacion temporal de las vias pecuarias cordel de la matapiñonera al arroyo de la vega tramo 5, col"
+MA-18,MA-P10,autorizacion,3,2025-01-17,fila,Informe ambiental estrategico,informe ambiental estrategico
+MDB-14,MA-P10,informacion_publica,2,2025-06-03,documento,Informacion publica,"onomia circular, por la que se somete a informacion publica la peticion de autorizacion administrativa y aprobacion del"
+MA-22,MA-P10,inicio,1,2025-06-27,fila,Reconocimiento como Proyecto de Actuacion Especial,reconocimiento como proyecto de actuacion especial
+MDB-15,MA-P10,autorizacion,3,2026-05-13,documento,Informacion publica,"nsicion energetica y economia circular, sobre autorizacion administrativa previa y aprobacion del proyecto de ejecucion para la insta"
+MA-23,MA-P11,informacion_publica,2,2025-10-01,fila,Aprobacion inicial por Junta de Gobierno Local; informacion publica; evaluacion ambiental estrategica,aprobacion inicial por junta de gobierno local
+MA-25,MA-P12,inicio,1,2026-02-16,fila,"Consulta de evaluacion ambiental estrategica, 30 dias habiles","consulta de evaluacion ambiental estrategica, 30 dias habiles"
+MA-24,MA-P12,inicio,1,2026-04,fila,"Borrador y consulta de evaluacion ambiental estrategica, 30 dias habiles","borrador y consulta de evaluacion ambiental estrategica, 30 dias habiles"
+MA-26,MA-P13,inicio,1,2026-03-06,fila,Documento borrador y consulta de evaluacion ambiental estrategica,documento borrador y consulta de evaluacion ambiental estrategica
+MA-35,MA-P14,informacion_publica,2,2026-02-10,documento,Informacion publica,"ierno en madrid, por el que se somete a informacion publica la solicitud de autorizacion administrativa previa y autori"
+MA-27,MA-P14,inicio,1,2026-06-11,fila,Tomado en consideracion por la Aceleradora Urbanistica (5a sesion ordinaria),tomado en consideracion por la aceleradora urbanistica (5a sesion ordinaria)
+MA-29,MA-P15,autorizacion,3,2026-02-06,fila,Informe ambiental estrategico,informe ambiental estrategico
+MA-28,MA-P15,informacion_publica,2,2026-04-14,fila,Solicitud de Autorizacion Ambiental Integrada con evaluacion de impacto ambiental; informacion publica,informacion publica
+MDF-03,MA-P15,informacion_publica,2,2026-04-14,documento,Informacion publica,"tura e interior, por la que se somete a informacion publica la documentacion de la solicitud inicial de la autorizacion"
+MA-30,MA-P17,inicio,1,2025-02-26,fila,Consulta de evaluacion ambiental estrategica,consulta de evaluacion ambiental estrategica
+MA-32,MA-P18,informacion_publica,2,2025-11-12,documento,Informacion publica,"onomia circular, por la que se somete a informacion publica la solicitud de autorizacion administrativa y aprobacion de"
+MA-34,MA-P18,autorizacion,3,2026-01-30,documento,Informacion publica,"nsicion energetica y economia circular, sobre autorizacion administrativa previa y aprobacion del proyecto de ejecucion para la insta"
+MA-33,MA-P19,autorizacion,3,2025-11-25,documento,Informacion publica,"nsicion energetica y economia circular, sobre autorizacion administrativa previa y aprobacion del proyecto de ejecucion para la insta"
+NC-01,NC-P01,inicio,1,2023-12-28,documento,Informacion publica,por el que se declara como inversion de interes foral el proyecto de ampliacion y modernizacion del centro de pro
+PVF-01,PV-P01,informacion_publica,2,2023-05-09,documento,Informacion publica,"onomia circular, por el que se somete a informacion publica el expediente de solicitud de autorizacion ambiental integr"
+PV-03,PV-P01,informacion_publica,2,2023-05-26,documento,Informacion publica,"onomia circular, por el que se somete a informacion publica el expediente de solicitud de autorizacion ambiental integr"
+PV-01,PV-P01,autorizacion,3,2023-12-22,documento,Informacion publica,"de sostenibilidad ambiental, por la que se formula declaracion de impacto ambiental y se concede autorizacion ambiental integrada a la instalac"
+PVF-02,PV-P01,autorizacion,3,2023-12-22,documento,Informacion publica,"de sostenibilidad ambiental, por la que se formula declaracion de impacto ambiental y se concede autorizacion ambiental integrada a la instalac"
+PVF-03,PV-P01,autorizacion,3,2025-01-08,documento,Informacion publica,"de sostenibilidad ambiental, por la que se formula la declaracion de impacto ambiental para el proyecto de construccion de un edificio 2 para la a"
+PVF-04,PV-P01,informacion_publica,2,2025-07-18,documento,Informacion publica,"acion ambiental, por el que se somete a informacion publica el proyecto tecnico y estudio de impacto ambiental presenta"
+PVF-06,PV-P01,autorizacion,3,2026-02-20,documento,Declaracion de impacto ambiental,"inistracion ambiental, por el que se da publicidad a resoluciones de autorizaciones ambientales integradas y autorizaciones ambientales unicas"
+PVF-08,PV-P01,informacion_publica,2,2026-06-24,documento,Informacion publica,"acion ambiental, por el que se somete a informacion publica el proyecto tecnico y estudio de impacto ambiental presenta"
+PVF-05,PV-P04,informacion_publica,2,2025-11-14,documento,Informacion publica,"acion ambiental, por el que se somete a informacion publica el proyecto tecnico y estudio de impacto ambiental presenta"
+PV-02,PV-P04,autorizacion,3,2026-05,documento,Informacion publica,"consejero de medio ambiente, por la que se formula declaracion de impacto ambiental y se concede autorizacion ambiental integrada a la instalac"
+PVF-07,PV-P04,autorizacion,3,2026-05-22,documento,Informacion publica,"consejero de medio ambiente, por la que se formula declaracion de impacto ambiental y se concede autorizacion ambiental integrada a la instalac"
+PVF-09,PV-P06,informacion_publica,2,2021-09-20,documento,Informacion publica,"mas disposiciones concordantes, se abre informacion publica por termino de quince dias, para que quienes se consideren"
+MCF-01,RE-P01,informacion_publica,2,2026-06-24,etiqueta del lector,Informacion publica,informacion publica
+RI-01,RI-P01,informacion_publica,2,2022-07-07,etiqueta del lector,Informacion publica,informacion publica
+VCV-01,VC-P01,informacion_publica,2,2022-08-19,etiqueta del lector,Informacion publica,informacion publica
